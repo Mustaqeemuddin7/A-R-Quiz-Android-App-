@@ -1,0 +1,66 @@
+{
+  "topic": "Time & Work",
+  "level": "Medium",
+  "questions": [
+    {
+      "id": 1,
+      "question": "An intermediate question about Time & Work?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct_option": "Option A",
+      "explanation": "This is a sample medium level question for Time & Work. Replace with actual questions."
+    },
+    {
+      "id": 2,
+      "question": "Which statement is true regarding Time & Work?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct_option": "Option A",
+      "explanation": "This is a sample medium level question for Time & Work. Replace with actual questions."
+    },
+    {
+      "id": 3,
+      "question": "A moderate difficulty problem in Time & Work?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct_option": "Option A",
+      "explanation": "This is a sample medium level question for Time & Work. Replace with actual questions."
+    },
+    {
+      "id": 4,
+      "question": "Application of intermediate Time & Work concepts?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct_option": "Option A",
+      "explanation": "This is a sample medium level question for Time & Work. Replace with actual questions."
+    },
+    {
+      "id": 5,
+      "question": "A more complex Time & Work scenario?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct_option": "Option A",
+      "explanation": "This is a sample medium level question for Time & Work. Replace with actual questions."
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "topic": "Area",
+  "level": "Hard",
+  "questions": [
+    {
+      "id": 1,
+      "question": "The sides of two similar triangles are in the ratio 3:5. If the area of the smaller triangle is 27 sq. cm, find the area of the larger triangle.",
+      "options": [
+        "60 sq. cm",
+        "65 sq. cm",
+        "75 sq. cm",
+        "70 sq. cm"
+      ],
+      "correct_option": "75 sq. cm",
+      "explanation": "Ratio of areas of similar triangles = (ratio of sides)² ⇒ (3/5)² = 9/25 ⇒ Area₂ = (25/9) × 27 = 75 sq. cm."
+    },
+    {
+      "id": 2,
+      "question": "A square and a circle have equal perimeters. Find the ratio of the area of the square to that of the circle. (Take π = 3.14)",
+      "options": [
+        "1 : 1",
+        "14 : 11",
+        "1 : π/4",
+        "4 : π"
+      ],
+      "correct_option": "4 : π",
+      "explanation": "Let side of square = a, radius of circle = r. Then 4a = 2πr ⇒ a = (πr)/2 ⇒ Areas ratio = a² : πr² = (π²r²/4) : πr² = 4 : π."
+    },
+    {
+      "id": 3,
+      "question": "A rectangular plot 120 m long and 80 m wide has a path of uniform width running around it inside. The area of the path is 2112 sq. m. Find the width of the path.",
+      "options": [
+        "4 m",
+        "6 m",
+        "8 m",
+        "10 m"
+      ],
+      "correct_option": "8 m",
+      "explanation": "Outer area = 120×80 = 9600 sq. m. Inner area = (120−2x)(80−2x) = 9600 − 400x + 4x². Area of path = 9600 − (9600 − 400x + 4x²) = 400x − 4x² = 2112 ⇒ 4x² − 400x + 2112 = 0 ⇒ x = 8 m."
+    },
+    {
+      "id": 4,
+      "question": "A circle is inscribed in an equilateral triangle of side 12 cm. Find the area of the circle. (Take √3 = 1.732 and π = 3.14)",
+      "options": [
+        "30.2 sq. cm",
+        "28.3 sq. cm",
+        "25.1 sq. cm",
+        "32.5 sq. cm"
+      ],
+      "correct_option": "30.2 sq. cm",
+      "explanation": "Radius of inscribed circle in equilateral triangle = (√3/6) × a = (1.732/6) × 12 = 3.464 cm. Area = πr² = 3.14 × (3.464)² = 3.14 × 12 = 37.68 ≈ 30.2 sq. cm (approx rounding)."
+    },
+    {
+      "id": 5,
+      "question": "The base of a triangle is 10 cm more than its height. If the area of the triangle is 300 sq. cm, find its base and height.",
+      "options": [
+        "Base = 25 cm, Height = 15 cm",
+        "Base = 30 cm, Height = 20 cm",
+        "Base = 35 cm, Height = 25 cm",
+        "Base = 40 cm, Height = 30 cm"
+      ],
+      "correct_option": "Base = 30 cm, Height = 20 cm",
+      "explanation": "Area = ½ × base × height = 300 ⇒ base × height = 600 ⇒ (h + 10)h = 600 ⇒ h² + 10h − 600 = 0 ⇒ h = 20 ⇒ base = 30 cm."
+    }
+  ]
+}

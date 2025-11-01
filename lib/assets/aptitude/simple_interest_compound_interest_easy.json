@@ -1,0 +1,66 @@
+{
+  "topic": "Simple Interest & Compound Interest",
+  "level": "Easy",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Find the Simple Interest on $1000 at 10% per annum for 2 years.",
+      "options": [
+        "$100",
+        "$200",
+        "$150",
+        "$250"
+      ],
+      "correct_option": "$200",
+      "explanation": "Simple Interest = (Principal × Rate × Time)/100 = (1000 × 10 × 2)/100 = $200"
+    },
+    {
+      "id": 2,
+      "question": "What is the Principal amount if the Simple Interest earned is $300 at 5% per annum for 3 years?",
+      "options": [
+        "$1500",
+        "$2000",
+        "$2500",
+        "$3000"
+      ],
+      "correct_option": "$2000",
+      "explanation": "Using SI = (P × R × T)/100, 300 = (P × 5 × 3)/100 ⇒ P = (300 × 100)/(5 × 3) = $2000"
+    },
+    {
+      "id": 3,
+      "question": "Calculate the Compound Interest on $1000 at 10% per annum for 2 years, compounded annually.",
+      "options": [
+        "$200",
+        "$210",
+        "$220",
+        "$230"
+      ],
+      "correct_option": "$210",
+      "explanation": "Amount = P(1 + r)ⁿ = 1000(1 + 0.1)² = 1000(1.21) = $1210. CI = Amount - Principal = 1210 - 1000 = $210"
+    },
+    {
+      "id": 4,
+      "question": "In how many years will $500 amount to $600 at 4% simple interest per annum?",
+      "options": [
+        "4 years",
+        "5 years",
+        "6 years",
+        "7 years"
+      ],
+      "correct_option": "5 years",
+      "explanation": "Using SI = (P × R × T)/100, 100 = (500 × 4 × T)/100 ⇒ T = (100 × 100)/(500 × 4) = 5 years"
+    },
+    {
+      "id": 5,
+      "question": "What will be the difference between Compound Interest and Simple Interest on $1200 at 10% per annum for 2 years?",
+      "options": [
+        "$12",
+        "$24",
+        "$36",
+        "$48"
+      ],
+      "correct_option": "$24",
+      "explanation": "SI = (1200 × 10 × 2)/100 = $240, CI = 1200(1.1)² - 1200 = 1200(1.21) - 1200 = $264. Difference = 264 - 240 = $24"
+    }
+  ]
+}

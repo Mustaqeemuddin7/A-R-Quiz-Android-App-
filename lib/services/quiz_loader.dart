@@ -54,14 +54,20 @@ class QuizLoader {
   Future<QuizData> loadQuiz(String category, String topic, String level) async {
     try {
       final topicKey = _getTopicKey(topic);
-      final path = 'assets/$category/${topicKey}_${level.toLowerCase()}.json';
+      final path = 'lib/assets/$category/${topicKey}_${level.toLowerCase()}.json';
+      
+      print('Loading quiz from: $path');
+      print('Category: $category, Topic: $topic, Level: $level');
+      print('Topic key: $topicKey');
       
       final String jsonString = await rootBundle.loadString(path);
       final Map<String, dynamic> jsonData = json.decode(jsonString);
       
+      print('Successfully loaded ${jsonData['questions']?.length ?? 0} questions');
       return QuizData.fromJson(jsonData);
     } catch (e) {
       print('Error loading quiz: $e');
+      print('Category: $category, Topic: $topic, Level: $level');
       // Return sample data if file doesn't exist
       return _getSampleQuiz(topic, level);
     }

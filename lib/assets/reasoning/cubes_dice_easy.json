@@ -1,0 +1,66 @@
+{
+  "topic": "Cubes & Dice",
+  "level": "Easy",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Basic question 1 about Cubes & Dice?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct_option": "Option A",
+      "explanation": "This is a sample easy level question for Cubes & Dice. Replace with actual questions."
+    },
+    {
+      "id": 2,
+      "question": "What is a fundamental concept in Cubes & Dice?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct_option": "Option A",
+      "explanation": "This is a sample easy level question for Cubes & Dice. Replace with actual questions."
+    },
+    {
+      "id": 3,
+      "question": "Which option correctly describes Cubes & Dice?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct_option": "Option A",
+      "explanation": "This is a sample easy level question for Cubes & Dice. Replace with actual questions."
+    },
+    {
+      "id": 4,
+      "question": "A simple problem related to Cubes & Dice?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct_option": "Option A",
+      "explanation": "This is a sample easy level question for Cubes & Dice. Replace with actual questions."
+    },
+    {
+      "id": 5,
+      "question": "Basic application of Cubes & Dice?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct_option": "Option A",
+      "explanation": "This is a sample easy level question for Cubes & Dice. Replace with actual questions."
+    }
+  ]
+}

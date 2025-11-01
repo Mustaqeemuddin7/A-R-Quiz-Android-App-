@@ -1,0 +1,66 @@
+{
+  "topic": "Line Graphs",
+  "level": "Easy",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Basic question 1 about Line Graphs?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct_option": "Option A",
+      "explanation": "This is a sample easy level question for Line Graphs. Replace with actual questions."
+    },
+    {
+      "id": 2,
+      "question": "What is a fundamental concept in Line Graphs?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct_option": "Option A",
+      "explanation": "This is a sample easy level question for Line Graphs. Replace with actual questions."
+    },
+    {
+      "id": 3,
+      "question": "Which option correctly describes Line Graphs?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct_option": "Option A",
+      "explanation": "This is a sample easy level question for Line Graphs. Replace with actual questions."
+    },
+    {
+      "id": 4,
+      "question": "A simple problem related to Line Graphs?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct_option": "Option A",
+      "explanation": "This is a sample easy level question for Line Graphs. Replace with actual questions."
+    },
+    {
+      "id": 5,
+      "question": "Basic application of Line Graphs?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct_option": "Option A",
+      "explanation": "This is a sample easy level question for Line Graphs. Replace with actual questions."
+    }
+  ]
+}

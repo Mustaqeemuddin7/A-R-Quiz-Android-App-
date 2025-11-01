@@ -5,6 +5,8 @@ import 'firestore_service.dart';
 
 class AuthService extends ChangeNotifier {
   final FirebaseAuth _auth = FirebaseAuth.instance;
+  // For web, GoogleSignIn will use the clientId from the meta tag in index.html
+  // For mobile, it will use the default configuration from Firebase
   final GoogleSignIn _googleSignIn = GoogleSignIn();
   
   User? get currentUser => _auth.currentUser;

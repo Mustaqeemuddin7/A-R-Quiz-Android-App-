@@ -1,4 +1,4 @@
-name: your_app_name
+name: anr_fixed
 description: A new Flutter project
 
 publish_to: "none" # Remove this if publishing to pub.dev
@@ -14,10 +14,10 @@ dependencies:
     sdk: flutter
 
   # Firebase dependencies
-  firebase_core: ^2.24.2
-  firebase_auth: ^4.15.3
-  cloud_firestore: ^4.13.6
-  google_sign_in: ^6.1.6
+  firebase_core: ^3.6.0
+  firebase_auth: ^5.3.1
+  cloud_firestore: ^5.4.3
+  google_sign_in: ^6.2.1
 
   # State Management & Navigation
   provider: ^6.1.1
@@ -42,6 +42,5 @@ flutter:
   uses-material-design: true
 
   assets:
-    - /assets/aptitude/
-    - /assets/reasoning/
-    - /assets/images/
+    - lib/assets/aptitude/
+    - lib/assets/reasoning/

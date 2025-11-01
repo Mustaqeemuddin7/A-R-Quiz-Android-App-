@@ -1,0 +1,66 @@
+{
+  "topic": "Pie Chart",
+  "level": "Hard",
+  "questions": [
+    {
+      "id": 1,
+      "question": "An advanced question about Pie Chart?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct_option": "Option A",
+      "explanation": "This is a sample hard level question for Pie Chart. Replace with actual questions."
+    },
+    {
+      "id": 2,
+      "question": "Which complex scenario applies to Pie Chart?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct_option": "Option A",
+      "explanation": "This is a sample hard level question for Pie Chart. Replace with actual questions."
+    },
+    {
+      "id": 3,
+      "question": "A challenging problem in Pie Chart?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct_option": "Option A",
+      "explanation": "This is a sample hard level question for Pie Chart. Replace with actual questions."
+    },
+    {
+      "id": 4,
+      "question": "Advanced application of Pie Chart principles?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct_option": "Option A",
+      "explanation": "This is a sample hard level question for Pie Chart. Replace with actual questions."
+    },
+    {
+      "id": 5,
+      "question": "A complex Pie Chart calculation?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct_option": "Option A",
+      "explanation": "This is a sample hard level question for Pie Chart. Replace with actual questions."
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "topic": "HCF & LCM",
+  "level": "Easy",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Basic question 1 about HCF & LCM?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct_option": "Option A",
+      "explanation": "This is a sample easy level question for HCF & LCM. Replace with actual questions."
+    },
+    {
+      "id": 2,
+      "question": "What is a fundamental concept in HCF & LCM?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct_option": "Option A",
+      "explanation": "This is a sample easy level question for HCF & LCM. Replace with actual questions."
+    },
+    {
+      "id": 3,
+      "question": "Which option correctly describes HCF & LCM?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct_option": "Option A",
+      "explanation": "This is a sample easy level question for HCF & LCM. Replace with actual questions."
+    },
+    {
+      "id": 4,
+      "question": "A simple problem related to HCF & LCM?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct_option": "Option A",
+      "explanation": "This is a sample easy level question for HCF & LCM. Replace with actual questions."
+    },
+    {
+      "id": 5,
+      "question": "Basic application of HCF & LCM?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct_option": "Option A",
+      "explanation": "This is a sample easy level question for HCF & LCM. Replace with actual questions."
+    }
+  ]
+}

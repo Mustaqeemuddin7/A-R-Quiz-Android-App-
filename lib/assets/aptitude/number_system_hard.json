@@ -5,14 +5,37 @@
     {
       "id": 1,
       "question": "Find the remainder when 7⁹ is divided by 6.",
-      "options": {
-        "a": "0",
-        "b": "1",
-        "c": "5",
-        "d": "2"
-      },
-      "correct_option": "b",
+      "options": ["0", "1", "5", "2"],
+      "correct_option": "1",
       "explanation": "7 ≡ 1 (mod 6), so 7⁹ ≡ 1⁹ ≡ 1 (mod 6)."
+    },
+    {
+      "id": 2,
+      "question": "What is the smallest number by which 5400 must be multiplied to make it a perfect cube?",
+      "options": ["5", "10", "15", "20"],
+      "correct_option": "5",
+      "explanation": "5400 = 2³ × 3³ × 5². To make it a perfect cube, we need one more 5. So multiply by 5."
+    },
+    {
+      "id": 3,
+      "question": "Find the number of factors of 360.",
+      "options": ["18", "20", "24", "30"],
+      "correct_option": "24",
+      "explanation": "360 = 2³ × 3² × 5¹. Number of factors = (3+1)(2+1)(1+1) = 4 × 3 × 2 = 24."
+    },
+    {
+      "id": 4,
+      "question": "What is the unit digit of 7¹²³?",
+      "options": ["1", "3", "7", "9"],
+      "correct_option": "3",
+      "explanation": "Pattern: 7¹=7, 7²=49(9), 7³=343(3), 7⁴=2401(1). Cycle repeats every 4. 123 mod 4 = 3, so unit digit is 3."
+    },
+    {
+      "id": 5,
+      "question": "If a number when divided by 6, 7, 8, 9, and 10 leaves remainders 1, 2, 3, 4, and 5 respectively, find the smallest such number.",
+      "options": ["2518", "2519", "2520", "2521"],
+      "correct_option": "2519",
+      "explanation": "LCM of 6,7,8,9,10 = 2520. Since remainders are 1 less than divisors, number = 2520 - 1 = 2519."
     }
   ]
 }

@@ -1,0 +1,66 @@
+{
+  "topic": "Blood Relations",
+  "level": "Easy",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Pointing to a photograph, Ram said, 'She is the daughter of my father's only son.' How is Ram related to the girl in the photograph?",
+      "options": [
+        "Brother",
+        "Uncle",
+        "Father",
+        "Cousin"
+      ],
+      "correct_option": "Father",
+      "explanation": "Ram's father's only son is Ram himself. So the girl in the photograph is Ram's daughter."
+    },
+    {
+      "id": 2,
+      "question": "A is B's sister. C is B's mother. D is C's father. E is D's mother. How is B related to E?",
+      "options": [
+        "Grandmother",
+        "Grandfather",
+        "Great Grandson",
+        "Great Granddaughter"
+      ],
+      "correct_option": "Great Grandson",
+      "explanation": "E is D's mother (grandmother), D is C's father (grandfather), C is B's mother (mother), so E is B's great grandmother, making B the great grandson of E."
+    },
+    {
+      "id": 3,
+      "question": "If P is Q's brother, R is Q's mother, and S is R's father, how is S related to P?",
+      "options": [
+        "Uncle",
+        "Father",
+        "Grandfather",
+        "Brother"
+      ],
+      "correct_option": "Grandfather",
+      "explanation": "S is R's father, R is Q's mother, and P is Q's brother. Therefore, S is P's grandfather (mother's father)."
+    },
+    {
+      "id": 4,
+      "question": "Introducing a woman, a man said, 'She is the mother of my father's only daughter.' How is the woman related to the man?",
+      "options": [
+        "Mother",
+        "Aunt",
+        "Sister",
+        "Grandmother"
+      ],
+      "correct_option": "Mother",
+      "explanation": "The man's father's only daughter would be the man's sister. The woman is the mother of his sister, therefore she is his mother too."
+    },
+    {
+      "id": 5,
+      "question": "Ravi's mother's brother is Amit. Sonia is Amit's sister. How is Sonia related to Ravi?",
+      "options": [
+        "Cousin",
+        "Aunt",
+        "Sister",
+        "Mother"
+      ],
+      "correct_option": "Aunt",
+      "explanation": "Amit is Ravi's maternal uncle (mother's brother). Sonia is Amit's sister, which means she is also Ravi's mother's sister, making her Ravi's aunt."
+    }
+  ]
+}

@@ -5,38 +5,37 @@
     {
       "id": 1,
       "question": "What is the smallest prime number?",
-      "options": {
-        "a": "0",
-        "b": "1",
-        "c": "2",
-        "d": "3"
-      },
-      "correct_option": "c",
+      "options": ["0", "1", "2", "3"],
+      "correct_option": "2",
       "explanation": "2 is the smallest and only even prime number."
     },
     {
       "id": 2,
       "question": "Which of the following numbers is divisible by 3?",
-      "options": {
-        "a": "121",
-        "b": "123",
-        "c": "125",
-        "d": "127"
-      },
-      "correct_option": "b",
+      "options": ["121", "123", "125", "127"],
+      "correct_option": "123",
       "explanation": "Sum of digits of 123 is 6, divisible by 3."
     },
     {
       "id": 3,
       "question": "What is the place value of 5 in 7532?",
-      "options": {
-        "a": "5",
-        "b": "50",
-        "c": "500",
-        "d": "5000"
-      },
-      "correct_option": "c",
+      "options": ["5", "50", "500", "5000"],
+      "correct_option": "500",
       "explanation": "5 is in hundreds place, so 5 × 100 = 500."
+    },
+    {
+      "id": 4,
+      "question": "What is the smallest composite number?",
+      "options": ["1", "2", "3", "4"],
+      "correct_option": "4",
+      "explanation": "4 is the smallest composite number (has factors 1, 2, 4)."
+    },
+    {
+      "id": 5,
+      "question": "Which number is neither prime nor composite?",
+      "options": ["0", "1", "2", "3"],
+      "correct_option": "1",
+      "explanation": "1 is neither prime nor composite as it has only one factor."
     }
   ]
 }

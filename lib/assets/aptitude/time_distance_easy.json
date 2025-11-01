@@ -1,0 +1,66 @@
+{
+  "topic": "Time & Distance",
+  "level": "Easy",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Basic question 1 about Time & Distance?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct_option": "Option A",
+      "explanation": "This is a sample easy level question for Time & Distance. Replace with actual questions."
+    },
+    {
+      "id": 2,
+      "question": "What is a fundamental concept in Time & Distance?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct_option": "Option A",
+      "explanation": "This is a sample easy level question for Time & Distance. Replace with actual questions."
+    },
+    {
+      "id": 3,
+      "question": "Which option correctly describes Time & Distance?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct_option": "Option A",
+      "explanation": "This is a sample easy level question for Time & Distance. Replace with actual questions."
+    },
+    {
+      "id": 4,
+      "question": "A simple problem related to Time & Distance?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct_option": "Option A",
+      "explanation": "This is a sample easy level question for Time & Distance. Replace with actual questions."
+    },
+    {
+      "id": 5,
+      "question": "Basic application of Time & Distance?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct_option": "Option A",
+      "explanation": "This is a sample easy level question for Time & Distance. Replace with actual questions."
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "topic": "Puzzle Test",
+  "level": "Medium",
+  "questions": [
+    {
+      "id": 1,
+      "question": "An intermediate question about Puzzle Test?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct_option": "Option A",
+      "explanation": "This is a sample medium level question for Puzzle Test. Replace with actual questions."
+    },
+    {
+      "id": 2,
+      "question": "Which statement is true regarding Puzzle Test?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct_option": "Option A",
+      "explanation": "This is a sample medium level question for Puzzle Test. Replace with actual questions."
+    },
+    {
+      "id": 3,
+      "question": "A moderate difficulty problem in Puzzle Test?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct_option": "Option A",
+      "explanation": "This is a sample medium level question for Puzzle Test. Replace with actual questions."
+    },
+    {
+      "id": 4,
+      "question": "Application of intermediate Puzzle Test concepts?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct_option": "Option A",
+      "explanation": "This is a sample medium level question for Puzzle Test. Replace with actual questions."
+    },
+    {
+      "id": 5,
+      "question": "A more complex Puzzle Test scenario?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct_option": "Option A",
+      "explanation": "This is a sample medium level question for Puzzle Test. Replace with actual questions."
+    }
+  ]
+}

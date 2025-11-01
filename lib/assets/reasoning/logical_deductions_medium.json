@@ -1,0 +1,66 @@
+{
+  "topic": "Logical Deductions",
+  "level": "Medium",
+  "questions": [
+    {
+      "id": 1,
+      "question": "An intermediate question about Logical Deductions?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct_option": "Option A",
+      "explanation": "This is a sample medium level question for Logical Deductions. Replace with actual questions."
+    },
+    {
+      "id": 2,
+      "question": "Which statement is true regarding Logical Deductions?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct_option": "Option A",
+      "explanation": "This is a sample medium level question for Logical Deductions. Replace with actual questions."
+    },
+    {
+      "id": 3,
+      "question": "A moderate difficulty problem in Logical Deductions?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct_option": "Option A",
+      "explanation": "This is a sample medium level question for Logical Deductions. Replace with actual questions."
+    },
+    {
+      "id": 4,
+      "question": "Application of intermediate Logical Deductions concepts?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct_option": "Option A",
+      "explanation": "This is a sample medium level question for Logical Deductions. Replace with actual questions."
+    },
+    {
+      "id": 5,
+      "question": "A more complex Logical Deductions scenario?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct_option": "Option A",
+      "explanation": "This is a sample medium level question for Logical Deductions. Replace with actual questions."
+    }
+  ]
+}

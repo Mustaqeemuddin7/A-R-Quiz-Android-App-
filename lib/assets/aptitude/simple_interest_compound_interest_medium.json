@@ -1,0 +1,66 @@
+{
+  "topic": "Simple Interest & Compound Interest",
+  "level": "Medium",
+  "questions": [
+    {
+      "id": 1,
+      "question": "An intermediate question about Simple Interest & Compound Interest?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct_option": "Option A",
+      "explanation": "This is a sample medium level question for Simple Interest & Compound Interest. Replace with actual questions."
+    },
+    {
+      "id": 2,
+      "question": "Which statement is true regarding Simple Interest & Compound Interest?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct_option": "Option A",
+      "explanation": "This is a sample medium level question for Simple Interest & Compound Interest. Replace with actual questions."
+    },
+    {
+      "id": 3,
+      "question": "A moderate difficulty problem in Simple Interest & Compound Interest?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct_option": "Option A",
+      "explanation": "This is a sample medium level question for Simple Interest & Compound Interest. Replace with actual questions."
+    },
+    {
+      "id": 4,
+      "question": "Application of intermediate Simple Interest & Compound Interest concepts?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct_option": "Option A",
+      "explanation": "This is a sample medium level question for Simple Interest & Compound Interest. Replace with actual questions."
+    },
+    {
+      "id": 5,
+      "question": "A more complex Simple Interest & Compound Interest scenario?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct_option": "Option A",
+      "explanation": "This is a sample medium level question for Simple Interest & Compound Interest. Replace with actual questions."
+    }
+  ]
+}

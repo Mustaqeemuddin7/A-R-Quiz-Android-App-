@@ -1,0 +1,66 @@
+{
+  "topic": "Simplification",
+  "level": "Easy",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Basic question 1 about Simplification?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct_option": "Option A",
+      "explanation": "This is a sample easy level question for Simplification. Replace with actual questions."
+    },
+    {
+      "id": 2,
+      "question": "What is a fundamental concept in Simplification?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct_option": "Option A",
+      "explanation": "This is a sample easy level question for Simplification. Replace with actual questions."
+    },
+    {
+      "id": 3,
+      "question": "Which option correctly describes Simplification?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct_option": "Option A",
+      "explanation": "This is a sample easy level question for Simplification. Replace with actual questions."
+    },
+    {
+      "id": 4,
+      "question": "A simple problem related to Simplification?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct_option": "Option A",
+      "explanation": "This is a sample easy level question for Simplification. Replace with actual questions."
+    },
+    {
+      "id": 5,
+      "question": "Basic application of Simplification?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct_option": "Option A",
+      "explanation": "This is a sample easy level question for Simplification. Replace with actual questions."
+    }
+  ]
+}

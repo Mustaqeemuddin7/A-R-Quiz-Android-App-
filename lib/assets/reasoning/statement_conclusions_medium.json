@@ -1,0 +1,66 @@
+{
+  "topic": "Statement-Conclusions",
+  "level": "Medium",
+  "questions": [
+    {
+      "id": 1,
+      "question": "An intermediate question about Statement-Conclusions?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct_option": "Option A",
+      "explanation": "This is a sample medium level question for Statement-Conclusions. Replace with actual questions."
+    },
+    {
+      "id": 2,
+      "question": "Which statement is true regarding Statement-Conclusions?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct_option": "Option A",
+      "explanation": "This is a sample medium level question for Statement-Conclusions. Replace with actual questions."
+    },
+    {
+      "id": 3,
+      "question": "A moderate difficulty problem in Statement-Conclusions?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct_option": "Option A",
+      "explanation": "This is a sample medium level question for Statement-Conclusions. Replace with actual questions."
+    },
+    {
+      "id": 4,
+      "question": "Application of intermediate Statement-Conclusions concepts?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct_option": "Option A",
+      "explanation": "This is a sample medium level question for Statement-Conclusions. Replace with actual questions."
+    },
+    {
+      "id": 5,
+      "question": "A more complex Statement-Conclusions scenario?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct_option": "Option A",
+      "explanation": "This is a sample medium level question for Statement-Conclusions. Replace with actual questions."
+    }
+  ]
+}

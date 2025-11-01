@@ -1,0 +1,66 @@
+{
+  "topic": "Area",
+  "level": "Easy",
+  "questions": [
+    {
+      "id": 1,
+      "question": "The area of a rectangle is 96 sq. cm. If its length is 12 cm, what is its breadth?",
+      "options": [
+        "6 cm",
+        "8 cm",
+        "10 cm",
+        "12 cm"
+      ],
+      "correct_option": "8 cm",
+      "explanation": "Area = length × breadth ⇒ 96 = 12 × breadth ⇒ breadth = 8 cm."
+    },
+    {
+      "id": 2,
+      "question": "The area of a square is 81 sq. m. What is the length of its side?",
+      "options": [
+        "8 m",
+        "9 m",
+        "10 m",
+        "12 m"
+      ],
+      "correct_option": "9 m",
+      "explanation": "Area = side² ⇒ side = √81 = 9 m."
+    },
+    {
+      "id": 3,
+      "question": "If the radius of a circle is 7 cm, what is its area? (Take π = 22/7)",
+      "options": [
+        "154 sq. cm",
+        "144 sq. cm",
+        "164 sq. cm",
+        "140 sq. cm"
+      ],
+      "correct_option": "154 sq. cm",
+      "explanation": "Area = πr² = (22/7) × 7 × 7 = 154 sq. cm."
+    },
+    {
+      "id": 4,
+      "question": "A triangle has a base of 10 cm and height of 6 cm. Find its area.",
+      "options": [
+        "20 sq. cm",
+        "25 sq. cm",
+        "30 sq. cm",
+        "35 sq. cm"
+      ],
+      "correct_option": "30 sq. cm",
+      "explanation": "Area = ½ × base × height = ½ × 10 × 6 = 30 sq. cm."
+    },
+    {
+      "id": 5,
+      "question": "The length and breadth of a rectangular field are in the ratio 3:2. If the area is 150 sq. m, find its length.",
+      "options": [
+        "10 m",
+        "12 m",
+        "15 m",
+        "18 m"
+      ],
+      "correct_option": "15 m",
+      "explanation": "Let length = 3x and breadth = 2x. Area = 3x × 2x = 6x² = 150 ⇒ x² = 25 ⇒ x = 5 ⇒ length = 3×5 = 15 m."
+    }
+  ]
+}

@@ -22,10 +22,24 @@ class _LoginScreenState extends State<LoginScreen> {
       await authService.signInWithGoogle();
     } catch (e) {
       if (mounted) {
+        String errorMessage = 'Failed to sign in';
+        
+        // Provide helpful error messages
+        if (e.toString().contains('ClientID not set') || 
+            e.toString().contains('popup_closed') ||
+            e.toString().contains('400')) {
+          errorMessage = 'Google Sign-In not configured for web.\n'
+              'Please configure Client ID in web/index.html\n'
+              'See GOOGLE_SIGNIN_SETUP.md for instructions.';
+        } else {
+          errorMessage = 'Failed to sign in: ${e.toString()}';
+        }
+        
         ScaffoldMessenger.of(context).showSnackBar(
           SnackBar(
-            content: Text('Failed to sign in: ${e.toString()}'),
+            content: Text(errorMessage),
             backgroundColor: Colors.red,
+            duration: const Duration(seconds: 5),
           ),
         );
       }
@@ -153,13 +167,7 @@ class _LoginScreenState extends State<LoginScreen> {
                               )
                             : ElevatedButton.icon(
                                 onPressed: _handleGoogleSignIn,
-                                icon: Image.asset(
-                                  'assets/images/google_logo.png',
-                                  height: 24,
-                                  errorBuilder: (context, error, stackTrace) {
-                                    return const Icon(Icons.login, size: 24);
-                                  },
-                                ),
+                                icon: const Icon(Icons.login, size: 24),
                                 label: const Text(
                                   'Sign in with Google',
                                   style: TextStyle(

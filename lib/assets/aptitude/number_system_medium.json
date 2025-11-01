@@ -5,14 +5,37 @@
     {
       "id": 1,
       "question": "Find the HCF of 36 and 48.",
-      "options": {
-        "a": "6",
-        "b": "8",
-        "c": "12",
-        "d": "18"
-      },
-      "correct_option": "c",
+      "options": ["6", "8", "12", "18"],
+      "correct_option": "12",
       "explanation": "HCF of 36 and 48 is 12."
+    },
+    {
+      "id": 2,
+      "question": "What is the LCM of 12 and 18?",
+      "options": ["24", "36", "48", "72"],
+      "correct_option": "36",
+      "explanation": "LCM of 12 and 18. Prime factors: 12 = 2² × 3, 18 = 2 × 3². LCM = 2² × 3² = 36."
+    },
+    {
+      "id": 3,
+      "question": "How many prime numbers are there between 1 and 20?",
+      "options": ["6", "7", "8", "9"],
+      "correct_option": "8",
+      "explanation": "Prime numbers between 1 and 20: 2, 3, 5, 7, 11, 13, 17, 19. Total = 8."
+    },
+    {
+      "id": 4,
+      "question": "What is the sum of first 10 natural numbers?",
+      "options": ["45", "50", "55", "60"],
+      "correct_option": "55",
+      "explanation": "Sum of first n natural numbers = n(n+1)/2 = 10×11/2 = 55."
+    },
+    {
+      "id": 5,
+      "question": "Which of the following is a perfect square?",
+      "options": ["24", "36", "48", "54"],
+      "correct_option": "36",
+      "explanation": "36 = 6², so it is a perfect square."
     }
   ]
 }

@@ -1,0 +1,66 @@
+{
+  "topic": "Figure Matrix",
+  "level": "Easy",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Basic question 1 about Figure Matrix?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct_option": "Option A",
+      "explanation": "This is a sample easy level question for Figure Matrix. Replace with actual questions."
+    },
+    {
+      "id": 2,
+      "question": "What is a fundamental concept in Figure Matrix?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct_option": "Option A",
+      "explanation": "This is a sample easy level question for Figure Matrix. Replace with actual questions."
+    },
+    {
+      "id": 3,
+      "question": "Which option correctly describes Figure Matrix?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct_option": "Option A",
+      "explanation": "This is a sample easy level question for Figure Matrix. Replace with actual questions."
+    },
+    {
+      "id": 4,
+      "question": "A simple problem related to Figure Matrix?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct_option": "Option A",
+      "explanation": "This is a sample easy level question for Figure Matrix. Replace with actual questions."
+    },
+    {
+      "id": 5,
+      "question": "Basic application of Figure Matrix?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct_option": "Option A",
+      "explanation": "This is a sample easy level question for Figure Matrix. Replace with actual questions."
+    }
+  ]
+}
