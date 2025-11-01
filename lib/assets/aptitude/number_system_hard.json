@@ -1,0 +1,18 @@
+{
+  "topic": "Number System",
+  "level": "Hard",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Find the remainder when 7⁹ is divided by 6.",
+      "options": {
+        "a": "0",
+        "b": "1",
+        "c": "5",
+        "d": "2"
+      },
+      "correct_option": "b",
+      "explanation": "7 ≡ 1 (mod 6), so 7⁹ ≡ 1⁹ ≡ 1 (mod 6)."
+    }
+  ]
+}

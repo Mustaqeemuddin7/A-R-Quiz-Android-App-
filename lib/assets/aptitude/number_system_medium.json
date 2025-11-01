@@ -1,0 +1,18 @@
+{
+  "topic": "Number System",
+  "level": "Medium",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Find the HCF of 36 and 48.",
+      "options": {
+        "a": "6",
+        "b": "8",
+        "c": "12",
+        "d": "18"
+      },
+      "correct_option": "c",
+      "explanation": "HCF of 36 and 48 is 12."
+    }
+  ]
+}

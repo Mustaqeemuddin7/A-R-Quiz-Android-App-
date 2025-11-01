@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "777661093391",
+    "project_id": "must11",
+    "storage_bucket": "must11.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:777661093391:android:990f6bad3e146c46acf57a",
+        "android_client_info": {
+          "package_name": "com.anr.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoJvt4Wa-teEcFCanD-BYS8TUuKgZVu-0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:777661093391:android:2c261d2a17626677acf57a",
+        "android_client_info": {
+          "package_name": "com.example.anr_fixed"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoJvt4Wa-teEcFCanD-BYS8TUuKgZVu-0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:777661093391:android:d2036fc75281e7fbacf57a",
+        "android_client_info": {
+          "package_name": "com.lords.ar_quiz_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoJvt4Wa-teEcFCanD-BYS8TUuKgZVu-0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
