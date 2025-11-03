@@ -1,0 +1,197 @@
+{
+  "topic": "Profit Loss",
+  "levels": {
+    "easy": {
+      "questions": [
+        {
+          "id": "PL_E_1",
+          "question": "Basic question 1 about Profit & Loss?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample easy level question for Profit & Loss. Replace with actual questions."
+        },
+        {
+          "id": "PL_E_2",
+          "question": "What is a fundamental concept in Profit & Loss?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample easy level question for Profit & Loss. Replace with actual questions."
+        },
+        {
+          "id": "PL_E_3",
+          "question": "Which option correctly describes Profit & Loss?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample easy level question for Profit & Loss. Replace with actual questions."
+        },
+        {
+          "id": "PL_E_4",
+          "question": "A simple problem related to Profit & Loss?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample easy level question for Profit & Loss. Replace with actual questions."
+        },
+        {
+          "id": "PL_E_5",
+          "question": "Basic application of Profit & Loss?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample easy level question for Profit & Loss. Replace with actual questions."
+        }
+      ]
+    },
+    "medium": {
+      "questions": [
+        {
+          "id": "PL_M_1",
+          "question": "An intermediate question about Profit & Loss?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample medium level question for Profit & Loss. Replace with actual questions."
+        },
+        {
+          "id": "PL_M_2",
+          "question": "Which statement is true regarding Profit & Loss?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample medium level question for Profit & Loss. Replace with actual questions."
+        },
+        {
+          "id": "PL_M_3",
+          "question": "A moderate difficulty problem in Profit & Loss?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample medium level question for Profit & Loss. Replace with actual questions."
+        },
+        {
+          "id": "PL_M_4",
+          "question": "Application of intermediate Profit & Loss concepts?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample medium level question for Profit & Loss. Replace with actual questions."
+        },
+        {
+          "id": "PL_M_5",
+          "question": "A more complex Profit & Loss scenario?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample medium level question for Profit & Loss. Replace with actual questions."
+        }
+      ]
+    },
+    "hard": {
+      "questions": [
+        {
+          "id": "PL_H_1",
+          "question": "An advanced question about Profit & Loss?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample hard level question for Profit & Loss. Replace with actual questions."
+        },
+        {
+          "id": "PL_H_2",
+          "question": "Which complex scenario applies to Profit & Loss?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample hard level question for Profit & Loss. Replace with actual questions."
+        },
+        {
+          "id": "PL_H_3",
+          "question": "A challenging problem in Profit & Loss?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample hard level question for Profit & Loss. Replace with actual questions."
+        },
+        {
+          "id": "PL_H_4",
+          "question": "Advanced application of Profit & Loss principles?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample hard level question for Profit & Loss. Replace with actual questions."
+        },
+        {
+          "id": "PL_H_5",
+          "question": "A complex Profit & Loss calculation?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample hard level question for Profit & Loss. Replace with actual questions."
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,197 @@
+{
+  "topic": "Problems On Ages",
+  "levels": {
+    "easy": {
+      "questions": [
+        {
+          "id": "POA_E_1",
+          "question": "Basic question 1 about Problems on Ages?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample easy level question for Problems on Ages. Replace with actual questions."
+        },
+        {
+          "id": "POA_E_2",
+          "question": "What is a fundamental concept in Problems on Ages?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample easy level question for Problems on Ages. Replace with actual questions."
+        },
+        {
+          "id": "POA_E_3",
+          "question": "Which option correctly describes Problems on Ages?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample easy level question for Problems on Ages. Replace with actual questions."
+        },
+        {
+          "id": "POA_E_4",
+          "question": "A simple problem related to Problems on Ages?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample easy level question for Problems on Ages. Replace with actual questions."
+        },
+        {
+          "id": "POA_E_5",
+          "question": "Basic application of Problems on Ages?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample easy level question for Problems on Ages. Replace with actual questions."
+        }
+      ]
+    },
+    "medium": {
+      "questions": [
+        {
+          "id": "POA_M_1",
+          "question": "An intermediate question about Problems on Ages?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample medium level question for Problems on Ages. Replace with actual questions."
+        },
+        {
+          "id": "POA_M_2",
+          "question": "Which statement is true regarding Problems on Ages?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample medium level question for Problems on Ages. Replace with actual questions."
+        },
+        {
+          "id": "POA_M_3",
+          "question": "A moderate difficulty problem in Problems on Ages?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample medium level question for Problems on Ages. Replace with actual questions."
+        },
+        {
+          "id": "POA_M_4",
+          "question": "Application of intermediate Problems on Ages concepts?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample medium level question for Problems on Ages. Replace with actual questions."
+        },
+        {
+          "id": "POA_M_5",
+          "question": "A more complex Problems on Ages scenario?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample medium level question for Problems on Ages. Replace with actual questions."
+        }
+      ]
+    },
+    "hard": {
+      "questions": [
+        {
+          "id": "POA_H_1",
+          "question": "An advanced question about Problems on Ages?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample hard level question for Problems on Ages. Replace with actual questions."
+        },
+        {
+          "id": "POA_H_2",
+          "question": "Which complex scenario applies to Problems on Ages?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample hard level question for Problems on Ages. Replace with actual questions."
+        },
+        {
+          "id": "POA_H_3",
+          "question": "A challenging problem in Problems on Ages?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample hard level question for Problems on Ages. Replace with actual questions."
+        },
+        {
+          "id": "POA_H_4",
+          "question": "Advanced application of Problems on Ages principles?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample hard level question for Problems on Ages. Replace with actual questions."
+        },
+        {
+          "id": "POA_H_5",
+          "question": "A complex Problems on Ages calculation?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample hard level question for Problems on Ages. Replace with actual questions."
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,197 @@
+{
+  "topic": "Analogy",
+  "levels": {
+    "easy": {
+      "questions": [
+        {
+          "id": "A_E_1",
+          "question": "Book : Pages :: Tree : ?",
+          "options": [
+            "Leaves",
+            "Branches",
+            "Fruits",
+            "Roots"
+          ],
+          "correct_option": "Leaves",
+          "explanation": "As a book is made up of pages, similarly, a tree is made up of leaves. The relationship is that of whole to its constituent parts."
+        },
+        {
+          "id": "A_E_2",
+          "question": "Doctor : Hospital :: Teacher : ?",
+          "options": [
+            "Books",
+            "School",
+            "Students",
+            "Education"
+          ],
+          "correct_option": "School",
+          "explanation": "As a doctor works in a hospital, similarly, a teacher works in a school. The relationship is that of professional to workplace."
+        },
+        {
+          "id": "A_E_3",
+          "question": "Clock : Time :: Thermometer : ?",
+          "options": [
+            "Mercury",
+            "Weather",
+            "Temperature",
+            "Heat"
+          ],
+          "correct_option": "Temperature",
+          "explanation": "As a clock measures time, similarly, a thermometer measures temperature. The relationship is that of measuring instrument to what it measures."
+        },
+        {
+          "id": "A_E_4",
+          "question": "Pen : Write :: Knife : ?",
+          "options": [
+            "Sharp",
+            "Cut",
+            "Kitchen",
+            "Steel"
+          ],
+          "correct_option": "Cut",
+          "explanation": "As a pen is used to write, similarly, a knife is used to cut. The relationship is that of tool to its primary function."
+        },
+        {
+          "id": "A_E_5",
+          "question": "Bird : Nest :: Human : ?",
+          "options": [
+            "Food",
+            "Clothes",
+            "House",
+            "Car"
+          ],
+          "correct_option": "House",
+          "explanation": "As a bird lives in a nest, similarly, a human lives in a house. The relationship is that of living being to its dwelling place."
+        }
+      ]
+    },
+    "medium": {
+      "questions": [
+        {
+          "id": "A_M_1",
+          "question": "An intermediate question about Analogy?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample medium level question for Analogy. Replace with actual questions."
+        },
+        {
+          "id": "A_M_2",
+          "question": "Which statement is true regarding Analogy?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample medium level question for Analogy. Replace with actual questions."
+        },
+        {
+          "id": "A_M_3",
+          "question": "A moderate difficulty problem in Analogy?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample medium level question for Analogy. Replace with actual questions."
+        },
+        {
+          "id": "A_M_4",
+          "question": "Application of intermediate Analogy concepts?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample medium level question for Analogy. Replace with actual questions."
+        },
+        {
+          "id": "A_M_5",
+          "question": "A more complex Analogy scenario?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample medium level question for Analogy. Replace with actual questions."
+        }
+      ]
+    },
+    "hard": {
+      "questions": [
+        {
+          "id": "A_H_1",
+          "question": "An advanced question about Analogy?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample hard level question for Analogy. Replace with actual questions."
+        },
+        {
+          "id": "A_H_2",
+          "question": "Which complex scenario applies to Analogy?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample hard level question for Analogy. Replace with actual questions."
+        },
+        {
+          "id": "A_H_3",
+          "question": "A challenging problem in Analogy?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample hard level question for Analogy. Replace with actual questions."
+        },
+        {
+          "id": "A_H_4",
+          "question": "Advanced application of Analogy principles?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample hard level question for Analogy. Replace with actual questions."
+        },
+        {
+          "id": "A_H_5",
+          "question": "A complex Analogy calculation?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample hard level question for Analogy. Replace with actual questions."
+        }
+      ]
+    }
+  }
+}

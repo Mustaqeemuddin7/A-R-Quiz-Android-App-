@@ -1,0 +1,197 @@
+{
+  "topic": "Venn Diagrams",
+  "levels": {
+    "easy": {
+      "questions": [
+        {
+          "id": "VD_E_1",
+          "question": "Basic question 1 about Venn Diagrams?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample easy level question for Venn Diagrams. Replace with actual questions."
+        },
+        {
+          "id": "VD_E_2",
+          "question": "What is a fundamental concept in Venn Diagrams?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample easy level question for Venn Diagrams. Replace with actual questions."
+        },
+        {
+          "id": "VD_E_3",
+          "question": "Which option correctly describes Venn Diagrams?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample easy level question for Venn Diagrams. Replace with actual questions."
+        },
+        {
+          "id": "VD_E_4",
+          "question": "A simple problem related to Venn Diagrams?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample easy level question for Venn Diagrams. Replace with actual questions."
+        },
+        {
+          "id": "VD_E_5",
+          "question": "Basic application of Venn Diagrams?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample easy level question for Venn Diagrams. Replace with actual questions."
+        }
+      ]
+    },
+    "medium": {
+      "questions": [
+        {
+          "id": "VD_M_1",
+          "question": "An intermediate question about Venn Diagrams?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample medium level question for Venn Diagrams. Replace with actual questions."
+        },
+        {
+          "id": "VD_M_2",
+          "question": "Which statement is true regarding Venn Diagrams?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample medium level question for Venn Diagrams. Replace with actual questions."
+        },
+        {
+          "id": "VD_M_3",
+          "question": "A moderate difficulty problem in Venn Diagrams?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample medium level question for Venn Diagrams. Replace with actual questions."
+        },
+        {
+          "id": "VD_M_4",
+          "question": "Application of intermediate Venn Diagrams concepts?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample medium level question for Venn Diagrams. Replace with actual questions."
+        },
+        {
+          "id": "VD_M_5",
+          "question": "A more complex Venn Diagrams scenario?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample medium level question for Venn Diagrams. Replace with actual questions."
+        }
+      ]
+    },
+    "hard": {
+      "questions": [
+        {
+          "id": "VD_H_1",
+          "question": "An advanced question about Venn Diagrams?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample hard level question for Venn Diagrams. Replace with actual questions."
+        },
+        {
+          "id": "VD_H_2",
+          "question": "Which complex scenario applies to Venn Diagrams?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample hard level question for Venn Diagrams. Replace with actual questions."
+        },
+        {
+          "id": "VD_H_3",
+          "question": "A challenging problem in Venn Diagrams?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample hard level question for Venn Diagrams. Replace with actual questions."
+        },
+        {
+          "id": "VD_H_4",
+          "question": "Advanced application of Venn Diagrams principles?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample hard level question for Venn Diagrams. Replace with actual questions."
+        },
+        {
+          "id": "VD_H_5",
+          "question": "A complex Venn Diagrams calculation?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample hard level question for Venn Diagrams. Replace with actual questions."
+        }
+      ]
+    }
+  }
+}

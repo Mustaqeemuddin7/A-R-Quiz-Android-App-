@@ -1,0 +1,197 @@
+{
+  "topic": "Line Graphs",
+  "levels": {
+    "easy": {
+      "questions": [
+        {
+          "id": "LG_E_1",
+          "question": "Basic question 1 about Line Graphs?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample easy level question for Line Graphs. Replace with actual questions."
+        },
+        {
+          "id": "LG_E_2",
+          "question": "What is a fundamental concept in Line Graphs?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample easy level question for Line Graphs. Replace with actual questions."
+        },
+        {
+          "id": "LG_E_3",
+          "question": "Which option correctly describes Line Graphs?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample easy level question for Line Graphs. Replace with actual questions."
+        },
+        {
+          "id": "LG_E_4",
+          "question": "A simple problem related to Line Graphs?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample easy level question for Line Graphs. Replace with actual questions."
+        },
+        {
+          "id": "LG_E_5",
+          "question": "Basic application of Line Graphs?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample easy level question for Line Graphs. Replace with actual questions."
+        }
+      ]
+    },
+    "medium": {
+      "questions": [
+        {
+          "id": "LG_M_1",
+          "question": "An intermediate question about Line Graphs?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample medium level question for Line Graphs. Replace with actual questions."
+        },
+        {
+          "id": "LG_M_2",
+          "question": "Which statement is true regarding Line Graphs?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample medium level question for Line Graphs. Replace with actual questions."
+        },
+        {
+          "id": "LG_M_3",
+          "question": "A moderate difficulty problem in Line Graphs?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample medium level question for Line Graphs. Replace with actual questions."
+        },
+        {
+          "id": "LG_M_4",
+          "question": "Application of intermediate Line Graphs concepts?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample medium level question for Line Graphs. Replace with actual questions."
+        },
+        {
+          "id": "LG_M_5",
+          "question": "A more complex Line Graphs scenario?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample medium level question for Line Graphs. Replace with actual questions."
+        }
+      ]
+    },
+    "hard": {
+      "questions": [
+        {
+          "id": "LG_H_1",
+          "question": "An advanced question about Line Graphs?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample hard level question for Line Graphs. Replace with actual questions."
+        },
+        {
+          "id": "LG_H_2",
+          "question": "Which complex scenario applies to Line Graphs?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample hard level question for Line Graphs. Replace with actual questions."
+        },
+        {
+          "id": "LG_H_3",
+          "question": "A challenging problem in Line Graphs?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample hard level question for Line Graphs. Replace with actual questions."
+        },
+        {
+          "id": "LG_H_4",
+          "question": "Advanced application of Line Graphs principles?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample hard level question for Line Graphs. Replace with actual questions."
+        },
+        {
+          "id": "LG_H_5",
+          "question": "A complex Line Graphs calculation?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample hard level question for Line Graphs. Replace with actual questions."
+        }
+      ]
+    }
+  }
+}

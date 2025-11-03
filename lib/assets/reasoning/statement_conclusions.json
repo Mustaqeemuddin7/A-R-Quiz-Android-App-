@@ -1,0 +1,197 @@
+{
+  "topic": "Statement Conclusions",
+  "levels": {
+    "easy": {
+      "questions": [
+        {
+          "id": "SC_E_1",
+          "question": "Basic question 1 about Statement-Conclusions?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample easy level question for Statement-Conclusions. Replace with actual questions."
+        },
+        {
+          "id": "SC_E_2",
+          "question": "What is a fundamental concept in Statement-Conclusions?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample easy level question for Statement-Conclusions. Replace with actual questions."
+        },
+        {
+          "id": "SC_E_3",
+          "question": "Which option correctly describes Statement-Conclusions?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample easy level question for Statement-Conclusions. Replace with actual questions."
+        },
+        {
+          "id": "SC_E_4",
+          "question": "A simple problem related to Statement-Conclusions?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample easy level question for Statement-Conclusions. Replace with actual questions."
+        },
+        {
+          "id": "SC_E_5",
+          "question": "Basic application of Statement-Conclusions?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample easy level question for Statement-Conclusions. Replace with actual questions."
+        }
+      ]
+    },
+    "medium": {
+      "questions": [
+        {
+          "id": "SC_M_1",
+          "question": "An intermediate question about Statement-Conclusions?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample medium level question for Statement-Conclusions. Replace with actual questions."
+        },
+        {
+          "id": "SC_M_2",
+          "question": "Which statement is true regarding Statement-Conclusions?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample medium level question for Statement-Conclusions. Replace with actual questions."
+        },
+        {
+          "id": "SC_M_3",
+          "question": "A moderate difficulty problem in Statement-Conclusions?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample medium level question for Statement-Conclusions. Replace with actual questions."
+        },
+        {
+          "id": "SC_M_4",
+          "question": "Application of intermediate Statement-Conclusions concepts?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample medium level question for Statement-Conclusions. Replace with actual questions."
+        },
+        {
+          "id": "SC_M_5",
+          "question": "A more complex Statement-Conclusions scenario?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample medium level question for Statement-Conclusions. Replace with actual questions."
+        }
+      ]
+    },
+    "hard": {
+      "questions": [
+        {
+          "id": "SC_H_1",
+          "question": "An advanced question about Statement-Conclusions?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample hard level question for Statement-Conclusions. Replace with actual questions."
+        },
+        {
+          "id": "SC_H_2",
+          "question": "Which complex scenario applies to Statement-Conclusions?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample hard level question for Statement-Conclusions. Replace with actual questions."
+        },
+        {
+          "id": "SC_H_3",
+          "question": "A challenging problem in Statement-Conclusions?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample hard level question for Statement-Conclusions. Replace with actual questions."
+        },
+        {
+          "id": "SC_H_4",
+          "question": "Advanced application of Statement-Conclusions principles?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample hard level question for Statement-Conclusions. Replace with actual questions."
+        },
+        {
+          "id": "SC_H_5",
+          "question": "A complex Statement-Conclusions calculation?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample hard level question for Statement-Conclusions. Replace with actual questions."
+        }
+      ]
+    }
+  }
+}

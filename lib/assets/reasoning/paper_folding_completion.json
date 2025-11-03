@@ -1,0 +1,197 @@
+{
+  "topic": "Paper Folding Completion",
+  "levels": {
+    "easy": {
+      "questions": [
+        {
+          "id": "PFC_E_1",
+          "question": "Basic question 1 about Paper Folding & Completion?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample easy level question for Paper Folding & Completion. Replace with actual questions."
+        },
+        {
+          "id": "PFC_E_2",
+          "question": "What is a fundamental concept in Paper Folding & Completion?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample easy level question for Paper Folding & Completion. Replace with actual questions."
+        },
+        {
+          "id": "PFC_E_3",
+          "question": "Which option correctly describes Paper Folding & Completion?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample easy level question for Paper Folding & Completion. Replace with actual questions."
+        },
+        {
+          "id": "PFC_E_4",
+          "question": "A simple problem related to Paper Folding & Completion?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample easy level question for Paper Folding & Completion. Replace with actual questions."
+        },
+        {
+          "id": "PFC_E_5",
+          "question": "Basic application of Paper Folding & Completion?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample easy level question for Paper Folding & Completion. Replace with actual questions."
+        }
+      ]
+    },
+    "medium": {
+      "questions": [
+        {
+          "id": "PFC_M_1",
+          "question": "An intermediate question about Paper Folding & Completion?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample medium level question for Paper Folding & Completion. Replace with actual questions."
+        },
+        {
+          "id": "PFC_M_2",
+          "question": "Which statement is true regarding Paper Folding & Completion?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample medium level question for Paper Folding & Completion. Replace with actual questions."
+        },
+        {
+          "id": "PFC_M_3",
+          "question": "A moderate difficulty problem in Paper Folding & Completion?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample medium level question for Paper Folding & Completion. Replace with actual questions."
+        },
+        {
+          "id": "PFC_M_4",
+          "question": "Application of intermediate Paper Folding & Completion concepts?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample medium level question for Paper Folding & Completion. Replace with actual questions."
+        },
+        {
+          "id": "PFC_M_5",
+          "question": "A more complex Paper Folding & Completion scenario?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample medium level question for Paper Folding & Completion. Replace with actual questions."
+        }
+      ]
+    },
+    "hard": {
+      "questions": [
+        {
+          "id": "PFC_H_1",
+          "question": "An advanced question about Paper Folding & Completion?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample hard level question for Paper Folding & Completion. Replace with actual questions."
+        },
+        {
+          "id": "PFC_H_2",
+          "question": "Which complex scenario applies to Paper Folding & Completion?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample hard level question for Paper Folding & Completion. Replace with actual questions."
+        },
+        {
+          "id": "PFC_H_3",
+          "question": "A challenging problem in Paper Folding & Completion?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample hard level question for Paper Folding & Completion. Replace with actual questions."
+        },
+        {
+          "id": "PFC_H_4",
+          "question": "Advanced application of Paper Folding & Completion principles?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample hard level question for Paper Folding & Completion. Replace with actual questions."
+        },
+        {
+          "id": "PFC_H_5",
+          "question": "A complex Paper Folding & Completion calculation?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample hard level question for Paper Folding & Completion. Replace with actual questions."
+        }
+      ]
+    }
+  }
+}

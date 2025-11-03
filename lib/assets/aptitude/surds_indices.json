@@ -1,0 +1,197 @@
+{
+  "topic": "Surds Indices",
+  "levels": {
+    "easy": {
+      "questions": [
+        {
+          "id": "SI_E_1",
+          "question": "Simplify: 2³ × 2⁴",
+          "options": [
+            "2⁶",
+            "2⁷",
+            "2⁸",
+            "2⁹"
+          ],
+          "correct_option": "2⁷",
+          "explanation": "When multiplying powers with same base, add the exponents: 2³ × 2⁴ = 2³⁺⁴ = 2⁷"
+        },
+        {
+          "id": "SI_E_2",
+          "question": "Simplify: √16 × √9",
+          "options": [
+            "6",
+            "12",
+            "15",
+            "18"
+          ],
+          "correct_option": "12",
+          "explanation": "√16 × √9 = √(16 × 9) = √144 = 12"
+        },
+        {
+          "id": "SI_E_3",
+          "question": "What is the value of (5²)³?",
+          "options": [
+            "125",
+            "625",
+            "3125",
+            "15625"
+          ],
+          "correct_option": "15625",
+          "explanation": "(5²)³ = 5⁶ = 15625 (multiply the exponents: 2 × 3 = 6)"
+        },
+        {
+          "id": "SI_E_4",
+          "question": "Simplify: ∛27",
+          "options": [
+            "3",
+            "6",
+            "9",
+            "27"
+          ],
+          "correct_option": "3",
+          "explanation": "∛27 = ∛(3³) = 3 (cube root of a cube number gives the number)"
+        },
+        {
+          "id": "SI_E_5",
+          "question": "If x⁴ = 16, what is the value of x?",
+          "options": [
+            "±2",
+            "±4",
+            "±8",
+            "±16"
+          ],
+          "correct_option": "±2",
+          "explanation": "x⁴ = 16 = 2⁴, therefore x = ±2 (since both 2 and -2 when raised to power 4 give 16)"
+        }
+      ]
+    },
+    "medium": {
+      "questions": [
+        {
+          "id": "SI_M_1",
+          "question": "An intermediate question about Surds & Indices?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample medium level question for Surds & Indices. Replace with actual questions."
+        },
+        {
+          "id": "SI_M_2",
+          "question": "Which statement is true regarding Surds & Indices?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample medium level question for Surds & Indices. Replace with actual questions."
+        },
+        {
+          "id": "SI_M_3",
+          "question": "A moderate difficulty problem in Surds & Indices?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample medium level question for Surds & Indices. Replace with actual questions."
+        },
+        {
+          "id": "SI_M_4",
+          "question": "Application of intermediate Surds & Indices concepts?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample medium level question for Surds & Indices. Replace with actual questions."
+        },
+        {
+          "id": "SI_M_5",
+          "question": "A more complex Surds & Indices scenario?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample medium level question for Surds & Indices. Replace with actual questions."
+        }
+      ]
+    },
+    "hard": {
+      "questions": [
+        {
+          "id": "SI_H_1",
+          "question": "An advanced question about Surds & Indices?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample hard level question for Surds & Indices. Replace with actual questions."
+        },
+        {
+          "id": "SI_H_2",
+          "question": "Which complex scenario applies to Surds & Indices?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample hard level question for Surds & Indices. Replace with actual questions."
+        },
+        {
+          "id": "SI_H_3",
+          "question": "A challenging problem in Surds & Indices?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample hard level question for Surds & Indices. Replace with actual questions."
+        },
+        {
+          "id": "SI_H_4",
+          "question": "Advanced application of Surds & Indices principles?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample hard level question for Surds & Indices. Replace with actual questions."
+        },
+        {
+          "id": "SI_H_5",
+          "question": "A complex Surds & Indices calculation?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample hard level question for Surds & Indices. Replace with actual questions."
+        }
+      ]
+    }
+  }
+}

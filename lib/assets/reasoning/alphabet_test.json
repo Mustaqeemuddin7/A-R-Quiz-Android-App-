@@ -1,0 +1,197 @@
+{
+  "topic": "Alphabet Test",
+  "levels": {
+    "easy": {
+      "questions": [
+        {
+          "id": "AT_E_1",
+          "question": "If the alphabet series is written in reverse order, which letter would be 5th from the right?",
+          "options": [
+            "U",
+            "V",
+            "W",
+            "X"
+          ],
+          "correct_option": "V",
+          "explanation": "Reverse alphabet: Z Y X W V U T... So, V is the 5th letter from right."
+        },
+        {
+          "id": "AT_E_2",
+          "question": "Which letter is 3rd to the left of the letter which is 6th from right end of the alphabet?",
+          "options": [
+            "Q",
+            "R",
+            "S",
+            "T"
+          ],
+          "correct_option": "R",
+          "explanation": "6th from right: U (Z,Y,X,W,V,U). 3rd to the left of U: R (U,T,S,R)"
+        },
+        {
+          "id": "AT_E_3",
+          "question": "How many letters are there between K and P in the English alphabet?",
+          "options": [
+            "3",
+            "4",
+            "5",
+            "6"
+          ],
+          "correct_option": "4",
+          "explanation": "Between K and P are L, M, N, O (4 letters)"
+        },
+        {
+          "id": "AT_E_4",
+          "question": "If every alternate letter starting from B is written in alphabetical order, what letter would be 4th?",
+          "options": [
+            "G",
+            "H",
+            "I",
+            "J"
+          ],
+          "correct_option": "H",
+          "explanation": "Alternate letters from B: B,D,F,H,J... So H is the 4th letter"
+        },
+        {
+          "id": "AT_E_5",
+          "question": "Which letter would be midpoint between F and T in the alphabet?",
+          "options": [
+            "L",
+            "M",
+            "N",
+            "O"
+          ],
+          "correct_option": "M",
+          "explanation": "F to T: F,G,H,I,J,K,L,M,N,O,P,Q,R,S,T (total 15 letters, 7 letters on each side of M)"
+        }
+      ]
+    },
+    "medium": {
+      "questions": [
+        {
+          "id": "AT_M_1",
+          "question": "An intermediate question about Alphabet Test?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample medium level question for Alphabet Test. Replace with actual questions."
+        },
+        {
+          "id": "AT_M_2",
+          "question": "Which statement is true regarding Alphabet Test?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample medium level question for Alphabet Test. Replace with actual questions."
+        },
+        {
+          "id": "AT_M_3",
+          "question": "A moderate difficulty problem in Alphabet Test?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample medium level question for Alphabet Test. Replace with actual questions."
+        },
+        {
+          "id": "AT_M_4",
+          "question": "Application of intermediate Alphabet Test concepts?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample medium level question for Alphabet Test. Replace with actual questions."
+        },
+        {
+          "id": "AT_M_5",
+          "question": "A more complex Alphabet Test scenario?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample medium level question for Alphabet Test. Replace with actual questions."
+        }
+      ]
+    },
+    "hard": {
+      "questions": [
+        {
+          "id": "AT_H_1",
+          "question": "An advanced question about Alphabet Test?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample hard level question for Alphabet Test. Replace with actual questions."
+        },
+        {
+          "id": "AT_H_2",
+          "question": "Which complex scenario applies to Alphabet Test?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample hard level question for Alphabet Test. Replace with actual questions."
+        },
+        {
+          "id": "AT_H_3",
+          "question": "A challenging problem in Alphabet Test?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample hard level question for Alphabet Test. Replace with actual questions."
+        },
+        {
+          "id": "AT_H_4",
+          "question": "Advanced application of Alphabet Test principles?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample hard level question for Alphabet Test. Replace with actual questions."
+        },
+        {
+          "id": "AT_H_5",
+          "question": "A complex Alphabet Test calculation?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample hard level question for Alphabet Test. Replace with actual questions."
+        }
+      ]
+    }
+  }
+}

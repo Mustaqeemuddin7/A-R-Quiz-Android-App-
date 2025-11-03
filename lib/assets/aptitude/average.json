@@ -1,0 +1,197 @@
+{
+  "topic": "Average",
+  "levels": {
+    "easy": {
+      "questions": [
+        {
+          "id": "A_E_1",
+          "question": "The average of 5, 10, 15, 20, and 25 is:",
+          "options": [
+            "10",
+            "12",
+            "15",
+            "18"
+          ],
+          "correct_option": "15",
+          "explanation": "Average = (5 + 10 + 15 + 20 + 25) ÷ 5 = 75 ÷ 5 = 15."
+        },
+        {
+          "id": "A_E_2",
+          "question": "The average of three numbers is 20. If two of the numbers are 18 and 22, find the third number.",
+          "options": [
+            "20",
+            "22",
+            "18",
+            "19"
+          ],
+          "correct_option": "20",
+          "explanation": "Sum of 3 numbers = 20 × 3 = 60. Two numbers = 18 + 22 = 40 ⇒ third number = 20."
+        },
+        {
+          "id": "A_E_3",
+          "question": "The average of 8 numbers is 14. If one number is removed, the average becomes 13. Find the number removed.",
+          "options": [
+            "14",
+            "15",
+            "20",
+            "21"
+          ],
+          "correct_option": "21",
+          "explanation": "Sum of 8 numbers = 8 × 14 = 112. New sum = 7 × 13 = 91 ⇒ number removed = 112 − 91 = 21."
+        },
+        {
+          "id": "A_E_4",
+          "question": "The average of 7 consecutive numbers is 20. What is the largest of these numbers?",
+          "options": [
+            "22",
+            "23",
+            "24",
+            "25"
+          ],
+          "correct_option": "23",
+          "explanation": "In consecutive numbers, the average is the middle number. For 7 numbers, 3 numbers are above and 3 below the average ⇒ largest = 20 + 3 = 23."
+        },
+        {
+          "id": "A_E_5",
+          "question": "The average of 4 numbers is 30. If one number is 40, find the average of the remaining three numbers.",
+          "options": [
+            "25",
+            "28.33",
+            "30",
+            "35"
+          ],
+          "correct_option": "26.67",
+          "explanation": "Total = 4 × 30 = 120. After removing 40, sum = 80 ⇒ average = 80 ÷ 3 = 26.67."
+        }
+      ]
+    },
+    "medium": {
+      "questions": [
+        {
+          "id": "A_M_1",
+          "question": "An intermediate question about Average?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample medium level question for Average. Replace with actual questions."
+        },
+        {
+          "id": "A_M_2",
+          "question": "Which statement is true regarding Average?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample medium level question for Average. Replace with actual questions."
+        },
+        {
+          "id": "A_M_3",
+          "question": "A moderate difficulty problem in Average?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample medium level question for Average. Replace with actual questions."
+        },
+        {
+          "id": "A_M_4",
+          "question": "Application of intermediate Average concepts?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample medium level question for Average. Replace with actual questions."
+        },
+        {
+          "id": "A_M_5",
+          "question": "A more complex Average scenario?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample medium level question for Average. Replace with actual questions."
+        }
+      ]
+    },
+    "hard": {
+      "questions": [
+        {
+          "id": "A_H_1",
+          "question": "The average of 5, 10, 15, 20, and 25 is:",
+          "options": [
+            "10",
+            "12",
+            "15",
+            "18"
+          ],
+          "correct_option": "15",
+          "explanation": "Average = (5 + 10 + 15 + 20 + 25) ÷ 5 = 75 ÷ 5 = 15."
+        },
+        {
+          "id": "A_H_2",
+          "question": "The average of three numbers is 20. If two of the numbers are 18 and 22, find the third number.",
+          "options": [
+            "20",
+            "22",
+            "18",
+            "19"
+          ],
+          "correct_option": "20",
+          "explanation": "Sum of 3 numbers = 20 × 3 = 60. Two numbers = 18 + 22 = 40 ⇒ third number = 20."
+        },
+        {
+          "id": "A_H_3",
+          "question": "The average of 8 numbers is 14. If one number is removed, the average becomes 13. Find the number removed.",
+          "options": [
+            "14",
+            "15",
+            "20",
+            "21"
+          ],
+          "correct_option": "21",
+          "explanation": "Sum of 8 numbers = 8 × 14 = 112. New sum = 7 × 13 = 91 ⇒ number removed = 112 − 91 = 21."
+        },
+        {
+          "id": "A_H_4",
+          "question": "The average of 7 consecutive numbers is 20. What is the largest of these numbers?",
+          "options": [
+            "22",
+            "23",
+            "24",
+            "25"
+          ],
+          "correct_option": "23",
+          "explanation": "In consecutive numbers, the average is the middle number. For 7 numbers, 3 numbers are above and 3 below the average ⇒ largest = 20 + 3 = 23."
+        },
+        {
+          "id": "A_H_5",
+          "question": "The average of 4 numbers is 30. If one number is 40, find the average of the remaining three numbers.",
+          "options": [
+            "25",
+            "28.33",
+            "30",
+            "35"
+          ],
+          "correct_option": "26.67",
+          "explanation": "Total = 4 × 30 = 120. After removing 40, sum = 80 ⇒ average = 80 ÷ 3 = 26.67."
+        }
+      ]
+    }
+  }
+}

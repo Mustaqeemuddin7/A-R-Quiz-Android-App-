@@ -1,0 +1,197 @@
+{
+  "topic": "Statement Arguments",
+  "levels": {
+    "easy": {
+      "questions": [
+        {
+          "id": "SA_E_1",
+          "question": "Basic question 1 about Statement-Arguments?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample easy level question for Statement-Arguments. Replace with actual questions."
+        },
+        {
+          "id": "SA_E_2",
+          "question": "What is a fundamental concept in Statement-Arguments?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample easy level question for Statement-Arguments. Replace with actual questions."
+        },
+        {
+          "id": "SA_E_3",
+          "question": "Which option correctly describes Statement-Arguments?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample easy level question for Statement-Arguments. Replace with actual questions."
+        },
+        {
+          "id": "SA_E_4",
+          "question": "A simple problem related to Statement-Arguments?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample easy level question for Statement-Arguments. Replace with actual questions."
+        },
+        {
+          "id": "SA_E_5",
+          "question": "Basic application of Statement-Arguments?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample easy level question for Statement-Arguments. Replace with actual questions."
+        }
+      ]
+    },
+    "medium": {
+      "questions": [
+        {
+          "id": "SA_M_1",
+          "question": "An intermediate question about Statement-Arguments?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample medium level question for Statement-Arguments. Replace with actual questions."
+        },
+        {
+          "id": "SA_M_2",
+          "question": "Which statement is true regarding Statement-Arguments?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample medium level question for Statement-Arguments. Replace with actual questions."
+        },
+        {
+          "id": "SA_M_3",
+          "question": "A moderate difficulty problem in Statement-Arguments?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample medium level question for Statement-Arguments. Replace with actual questions."
+        },
+        {
+          "id": "SA_M_4",
+          "question": "Application of intermediate Statement-Arguments concepts?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample medium level question for Statement-Arguments. Replace with actual questions."
+        },
+        {
+          "id": "SA_M_5",
+          "question": "A more complex Statement-Arguments scenario?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample medium level question for Statement-Arguments. Replace with actual questions."
+        }
+      ]
+    },
+    "hard": {
+      "questions": [
+        {
+          "id": "SA_H_1",
+          "question": "An advanced question about Statement-Arguments?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample hard level question for Statement-Arguments. Replace with actual questions."
+        },
+        {
+          "id": "SA_H_2",
+          "question": "Which complex scenario applies to Statement-Arguments?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample hard level question for Statement-Arguments. Replace with actual questions."
+        },
+        {
+          "id": "SA_H_3",
+          "question": "A challenging problem in Statement-Arguments?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample hard level question for Statement-Arguments. Replace with actual questions."
+        },
+        {
+          "id": "SA_H_4",
+          "question": "Advanced application of Statement-Arguments principles?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample hard level question for Statement-Arguments. Replace with actual questions."
+        },
+        {
+          "id": "SA_H_5",
+          "question": "A complex Statement-Arguments calculation?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample hard level question for Statement-Arguments. Replace with actual questions."
+        }
+      ]
+    }
+  }
+}
