@@ -1,0 +1,197 @@
+{
+  "topic": "Square Cube Roots",
+  "levels": {
+    "easy": {
+      "questions": [
+        {
+          "id": "SCR_E_1",
+          "question": "Basic question 1 about Square & Cube Roots?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample easy level question for Square & Cube Roots. Replace with actual questions."
+        },
+        {
+          "id": "SCR_E_2",
+          "question": "What is a fundamental concept in Square & Cube Roots?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample easy level question for Square & Cube Roots. Replace with actual questions."
+        },
+        {
+          "id": "SCR_E_3",
+          "question": "Which option correctly describes Square & Cube Roots?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample easy level question for Square & Cube Roots. Replace with actual questions."
+        },
+        {
+          "id": "SCR_E_4",
+          "question": "A simple problem related to Square & Cube Roots?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample easy level question for Square & Cube Roots. Replace with actual questions."
+        },
+        {
+          "id": "SCR_E_5",
+          "question": "Basic application of Square & Cube Roots?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample easy level question for Square & Cube Roots. Replace with actual questions."
+        }
+      ]
+    },
+    "medium": {
+      "questions": [
+        {
+          "id": "SCR_M_1",
+          "question": "An intermediate question about Square & Cube Roots?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample medium level question for Square & Cube Roots. Replace with actual questions."
+        },
+        {
+          "id": "SCR_M_2",
+          "question": "Which statement is true regarding Square & Cube Roots?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample medium level question for Square & Cube Roots. Replace with actual questions."
+        },
+        {
+          "id": "SCR_M_3",
+          "question": "A moderate difficulty problem in Square & Cube Roots?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample medium level question for Square & Cube Roots. Replace with actual questions."
+        },
+        {
+          "id": "SCR_M_4",
+          "question": "Application of intermediate Square & Cube Roots concepts?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample medium level question for Square & Cube Roots. Replace with actual questions."
+        },
+        {
+          "id": "SCR_M_5",
+          "question": "A more complex Square & Cube Roots scenario?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample medium level question for Square & Cube Roots. Replace with actual questions."
+        }
+      ]
+    },
+    "hard": {
+      "questions": [
+        {
+          "id": "SCR_H_1",
+          "question": "An advanced question about Square & Cube Roots?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample hard level question for Square & Cube Roots. Replace with actual questions."
+        },
+        {
+          "id": "SCR_H_2",
+          "question": "Which complex scenario applies to Square & Cube Roots?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample hard level question for Square & Cube Roots. Replace with actual questions."
+        },
+        {
+          "id": "SCR_H_3",
+          "question": "A challenging problem in Square & Cube Roots?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample hard level question for Square & Cube Roots. Replace with actual questions."
+        },
+        {
+          "id": "SCR_H_4",
+          "question": "Advanced application of Square & Cube Roots principles?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample hard level question for Square & Cube Roots. Replace with actual questions."
+        },
+        {
+          "id": "SCR_H_5",
+          "question": "A complex Square & Cube Roots calculation?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample hard level question for Square & Cube Roots. Replace with actual questions."
+        }
+      ]
+    }
+  }
+}

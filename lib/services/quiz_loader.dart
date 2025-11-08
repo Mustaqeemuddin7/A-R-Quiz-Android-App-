@@ -2,7 +2,7 @@ import 'dart:convert';
 import 'package:flutter/services.dart';
 
 class Question {
-  final String id;  // Changed from int to String to match new format (e.g., "NS_E_1")
+  final String id;
   final String question;
   final List<String> options;
   final String correctOption;
@@ -39,7 +39,6 @@ class QuizData {
   });
 
   factory QuizData.fromJson(Map<String, dynamic> json, String selectedLevel) {
-    // Get questions for the specific level from the new structure
     final levelData = json['levels'][selectedLevel.toLowerCase()];
     return QuizData(
       topic: json['topic'],
@@ -56,11 +55,20 @@ class QuizLoader {
   Future<QuizData> loadQuiz(String category, String topic, String level) async {
     try {
       final topicKey = _getTopicKey(topic);
-      final path = 'lib/assets/$category/$topicKey.json';
+      // Important: Assets are relative to project root
+      final path = 'assets/$category/$topicKey.json';
       
-      print('Loading quiz from: $path');
-      print('Category: $category, Topic: $topic, Level: $level');
-      print('Topic key: $topicKey');
+      print('DEBUG: Loading quiz from path: $path');
+      print('DEBUG: Category=$category, Topic=$topic, Level=$level');
+      print('DEBUG: Topic key (filename without .json)=$topicKey');
+      
+      // List available assets
+      final manifestContent = await rootBundle.loadString('AssetManifest.json');
+      final Map<String, dynamic> manifestMap = json.decode(manifestContent);
+      print('DEBUG: Available assets:');
+      manifestMap.keys.where((String key) => key.contains('.json')).forEach((String key) {
+        print('  - $key');
+      });
       
       final String jsonString = await rootBundle.loadString(path);
       final Map<String, dynamic> jsonData = json.decode(jsonString);
@@ -81,37 +89,33 @@ class QuizLoader {
     return topic.toLowerCase()
         .replaceAll(' & ', '_')
         .replaceAll(' ', '_')
-        .replaceAll('-', '_');
+        .replaceAll('-', '_')
+        .replaceAll('/', '_');
   }
   
   // Sample quiz data (fallback)
   QuizData _getSampleQuiz(String topic, String level) {
     final prefix = topic.split(' ').map((word) => word[0].toUpperCase()).join('');
+    final levelPrefix = level.substring(0, 1).toUpperCase();
+    
     return QuizData(
       topic: topic,
       level: level,
-      questions: [
-        Question(
-          id: '${prefix}_${level[0].toUpperCase()}_1',
-          question: 'Sample Question 1 for $topic ($level)?',
-          options: ['Option A', 'Option B', 'Option C', 'Option D'],
-          correctOption: 'Option A',
-          explanation: 'This is a sample question. Please add actual questions in JSON files.',
-        ),
-        Question(
-          id: '${prefix}_${level[0].toUpperCase()}_2',
-          question: 'Sample Question 2 for $topic ($level)?',
-          options: ['Choice 1', 'Choice 2', 'Choice 3', 'Choice 4'],
-          correctOption: 'Choice 2',
-          explanation: 'Another sample question for demonstration.',
-        ),
-        Question(
-          id: '${prefix}_${level[0].toUpperCase()}_3',
-          question: 'Sample Question 3 for $topic ($level)?',
-          options: ['Answer 1', 'Answer 2', 'Answer 3', 'Answer 4'],
-          correctOption: 'Answer 3',
-        ),
-      ],
+      questions: List.generate(5, (index) {
+        final questionNumber = index + 1;
+        return Question(
+          id: '${prefix}_${levelPrefix}_$questionNumber',
+          question: 'Sample Question $questionNumber for $topic ($level level)?',
+          options: [
+            'Option A - Sample answer',
+            'Option B - Sample answer',
+            'Option C - Sample answer',
+            'Option D - Sample answer'
+          ],
+          correctOption: 'Option A - Sample answer',
+          explanation: 'This is a sample question. Please add actual questions in the JSON file at assets/$_getTopicKey(topic).json',
+        );
+      }),
     );
   }
 }

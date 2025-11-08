@@ -1,0 +1,197 @@
+{
+  "topic": "Volume Surface Area",
+  "levels": {
+    "easy": {
+      "questions": [
+        {
+          "id": "VSA_E_1",
+          "question": "Basic question 1 about Volume & Surface Area?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample easy level question for Volume & Surface Area. Replace with actual questions."
+        },
+        {
+          "id": "VSA_E_2",
+          "question": "What is a fundamental concept in Volume & Surface Area?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample easy level question for Volume & Surface Area. Replace with actual questions."
+        },
+        {
+          "id": "VSA_E_3",
+          "question": "Which option correctly describes Volume & Surface Area?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample easy level question for Volume & Surface Area. Replace with actual questions."
+        },
+        {
+          "id": "VSA_E_4",
+          "question": "A simple problem related to Volume & Surface Area?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample easy level question for Volume & Surface Area. Replace with actual questions."
+        },
+        {
+          "id": "VSA_E_5",
+          "question": "Basic application of Volume & Surface Area?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample easy level question for Volume & Surface Area. Replace with actual questions."
+        }
+      ]
+    },
+    "medium": {
+      "questions": [
+        {
+          "id": "VSA_M_1",
+          "question": "An intermediate question about Volume & Surface Area?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample medium level question for Volume & Surface Area. Replace with actual questions."
+        },
+        {
+          "id": "VSA_M_2",
+          "question": "Which statement is true regarding Volume & Surface Area?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample medium level question for Volume & Surface Area. Replace with actual questions."
+        },
+        {
+          "id": "VSA_M_3",
+          "question": "A moderate difficulty problem in Volume & Surface Area?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample medium level question for Volume & Surface Area. Replace with actual questions."
+        },
+        {
+          "id": "VSA_M_4",
+          "question": "Application of intermediate Volume & Surface Area concepts?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample medium level question for Volume & Surface Area. Replace with actual questions."
+        },
+        {
+          "id": "VSA_M_5",
+          "question": "A more complex Volume & Surface Area scenario?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample medium level question for Volume & Surface Area. Replace with actual questions."
+        }
+      ]
+    },
+    "hard": {
+      "questions": [
+        {
+          "id": "VSA_H_1",
+          "question": "An advanced question about Volume & Surface Area?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample hard level question for Volume & Surface Area. Replace with actual questions."
+        },
+        {
+          "id": "VSA_H_2",
+          "question": "Which complex scenario applies to Volume & Surface Area?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample hard level question for Volume & Surface Area. Replace with actual questions."
+        },
+        {
+          "id": "VSA_H_3",
+          "question": "A challenging problem in Volume & Surface Area?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample hard level question for Volume & Surface Area. Replace with actual questions."
+        },
+        {
+          "id": "VSA_H_4",
+          "question": "Advanced application of Volume & Surface Area principles?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample hard level question for Volume & Surface Area. Replace with actual questions."
+        },
+        {
+          "id": "VSA_H_5",
+          "question": "A complex Volume & Surface Area calculation?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample hard level question for Volume & Surface Area. Replace with actual questions."
+        }
+      ]
+    }
+  }
+}

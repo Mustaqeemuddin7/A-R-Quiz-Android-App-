@@ -74,18 +74,21 @@ class ProfileScreen extends StatelessWidget {
                     radius: 50,
                     backgroundColor: Colors.white,
                     backgroundImage: authService.getUserPhotoUrl() != null
-                        ? NetworkImage(authService.getUserPhotoUrl()!)
+                        ? NetworkImage(authService.getUserPhotoUrl()!, headers: const {
+                            'Cache-Control': 'no-cache',
+                          })
                         : null,
-                    child: authService.getUserPhotoUrl() == null
-                        ? Text(
-                            userName[0].toUpperCase(),
-                            style: const TextStyle(
-                              fontSize: 36,
-                              fontWeight: FontWeight.bold,
-                              color: Color(0xFFE53935),
-                            ),
-                          )
-                        : null,
+                    onBackgroundImageError: (exception, stackTrace) {
+                      debugPrint('Error loading profile image: $exception');
+                    },
+                    child: Text(
+                      userName[0].toUpperCase(),
+                      style: const TextStyle(
+                        fontSize: 36,
+                        fontWeight: FontWeight.bold,
+                        color: Color(0xFFE53935),
+                      ),
+                    ),
                   ),
                   const SizedBox(height: 16),
                   Text(
@@ -143,12 +146,48 @@ class ProfileScreen extends StatelessWidget {
               child: Column(
                 crossAxisAlignment: CrossAxisAlignment.start,
                 children: [
-                  const Text(
-                    'Statistics',
+                  Row(
+                    mainAxisAlignment: MainAxisAlignment.spaceBetween,
+                    children: [
+                      const Text(
+                        'Statistics',
+                        style: TextStyle(
+                          fontSize: 20,
+                          fontWeight: FontWeight.bold,
+                          color: Colors.black87,
+                        ),
+                      ),
+                      // Streak Widget
+                      Container(
+                        padding: const EdgeInsets.symmetric(horizontal: 12, vertical: 6),
+                        decoration: BoxDecoration(
+                          color: const Color(0xFFE53935).withOpacity(0.1),
+                          borderRadius: BorderRadius.circular(20),
+                        ),
+                        child: Row(
+                          mainAxisSize: MainAxisSize.min,
+                          children: [
+                            const Text('🔥', style: TextStyle(fontSize: 16)),
+                            const SizedBox(width: 4),
+                            Text(
+                              '${firestoreService.getCurrentStreak()} Day Streak',
+                              style: const TextStyle(
+                                fontSize: 14,
+                                fontWeight: FontWeight.bold,
+                                color: Color(0xFFE53935),
+                              ),
+                            ),
+                          ],
+                        ),
+                      ),
+                    ],
+                  ),
+                  const SizedBox(height: 4),
+                  Text(
+                    progressService.getStreakMessage(firestoreService.getCurrentStreak()),
                     style: TextStyle(
-                      fontSize: 20,
-                      fontWeight: FontWeight.bold,
-                      color: Colors.black87,
+                      fontSize: 12,
+                      color: Colors.grey[600],
                     ),
                   ),
                   const SizedBox(height: 16),
@@ -159,7 +198,7 @@ class ProfileScreen extends StatelessWidget {
                           context,
                           '📊',
                           'Progress',
-                          '${progressPercent.toStringAsFixed(0)}%',
+                          progressService.formatPercentage(progressPercent),
                           const Color(0xFF1E88E5),
                         ),
                       ),
@@ -169,7 +208,7 @@ class ProfileScreen extends StatelessWidget {
                           context,
                           '🏅',
                           'Badges',
-                          badges.length.toString(),
+                          '${badges.length} / 3',
                           const Color(0xFFFFD700),
                         ),
                       ),
@@ -180,6 +219,18 @@ class ProfileScreen extends StatelessWidget {
                     context,
                     progressPercent,
                   ),
+                  const SizedBox(height: 16),
+                  // Topic Progress Section
+                  const Text(
+                    'Topic Progress',
+                    style: TextStyle(
+                      fontSize: 16,
+                      fontWeight: FontWeight.bold,
+                      color: Colors.black87,
+                    ),
+                  ),
+                  const SizedBox(height: 12),
+                  _buildTopicProgressList(firestoreService, progressService),
                 ],
               ),
             ),
@@ -423,6 +474,174 @@ class ProfileScreen extends StatelessWidget {
               color: color,
             ),
           ),
+        ],
+      ),
+    );
+  }
+
+  Widget _buildTopicProgressList(FirestoreService firestoreService, ProgressService progressService) {
+    final topicProgress = firestoreService.getTopicProgress();
+    
+    return Column(
+      children: [
+        // Category sections
+        _buildCategorySection('Aptitude', topicProgress, firestoreService, progressService),
+        const SizedBox(height: 16),
+        _buildCategorySection('Reasoning', topicProgress, firestoreService, progressService),
+      ],
+    );
+  }
+
+  Widget _buildCategorySection(String category, Map<String, double> topicProgress, 
+      FirestoreService firestoreService, ProgressService progressService) {
+    final topics = topicProgress.keys
+        .where((topic) => topic.toLowerCase().startsWith(category.toLowerCase()))
+        .toList()
+      ..sort();
+
+    return Column(
+      crossAxisAlignment: CrossAxisAlignment.start,
+      children: [
+        Row(
+          children: [
+            Text(
+              progressService.getCategoryIcon(category),
+              style: const TextStyle(fontSize: 20),
+            ),
+            const SizedBox(width: 8),
+            Text(
+              category,
+              style: const TextStyle(
+                fontSize: 16,
+                fontWeight: FontWeight.bold,
+                color: Colors.black87,
+              ),
+            ),
+          ],
+        ),
+        const SizedBox(height: 8),
+        ...topics.map((topic) => _buildTopicProgressTile(
+          topic,
+          topicProgress[topic] ?? 0.0,
+          firestoreService,
+          progressService,
+        )),
+      ],
+    );
+  }
+
+  Widget _buildTopicProgressTile(String topic, double progress, 
+      FirestoreService firestoreService, ProgressService progressService) {
+    final displayTopic = topic.split('/').last.split('_')
+        .map((word) => word[0].toUpperCase() + word.substring(1))
+        .join(' ');
+    
+    final stats = firestoreService.getLevelStats(topic, 'easy');
+    final hasStarted = stats != null;
+
+    return Container(
+      margin: const EdgeInsets.only(bottom: 8),
+      padding: const EdgeInsets.all(12),
+      decoration: BoxDecoration(
+        color: Colors.white,
+        borderRadius: BorderRadius.circular(12),
+        boxShadow: [
+          BoxShadow(
+            color: Colors.black.withOpacity(0.05),
+            blurRadius: 5,
+            offset: const Offset(0, 2),
+          ),
+        ],
+      ),
+      child: Column(
+        crossAxisAlignment: CrossAxisAlignment.start,
+        children: [
+          Row(
+            mainAxisAlignment: MainAxisAlignment.spaceBetween,
+            children: [
+              Expanded(
+                child: Text(
+                  displayTopic,
+                  style: const TextStyle(
+                    fontSize: 14,
+                    fontWeight: FontWeight.bold,
+                  ),
+                ),
+              ),
+              Text(
+                progressService.formatPercentage(progress),
+                style: TextStyle(
+                  fontSize: 14,
+                  fontWeight: FontWeight.w500,
+                  color: progress == 100 ? Colors.green : Colors.black87,
+                ),
+              ),
+            ],
+          ),
+          const SizedBox(height: 8),
+          ClipRRect(
+            borderRadius: BorderRadius.circular(4),
+            child: LinearProgressIndicator(
+              value: progress / 100,
+              backgroundColor: Colors.grey[200],
+              valueColor: AlwaysStoppedAnimation<Color>(
+                progress == 100 ? Colors.green : const Color(0xFFE53935),
+              ),
+              minHeight: 6,
+            ),
+          ),
+          if (hasStarted) ...[
+            const SizedBox(height: 8),
+            Row(
+              mainAxisAlignment: MainAxisAlignment.spaceBetween,
+              children: [
+                Row(
+                  children: [
+                    Icon(
+                      Icons.check_circle_outline,
+                      size: 16,
+                      color: Colors.grey[600],
+                    ),
+                    const SizedBox(width: 4),
+                    Text(
+                      '${stats['correct_answers'] ?? 0}/${stats['questions_attempted'] ?? 0}',
+                      style: TextStyle(
+                        fontSize: 12,
+                        color: Colors.grey[600],
+                      ),
+                    ),
+                  ],
+                ),
+                if (stats['best_score'] != null)
+                  Row(
+                    children: [
+                      const Icon(
+                        Icons.star_outline,
+                        size: 16,
+                        color: Color(0xFFFFD700),
+                      ),
+                      const SizedBox(width: 4),
+                      Text(
+                        '${stats['best_score']}',
+                        style: const TextStyle(
+                          fontSize: 12,
+                          color: Color(0xFFFFD700),
+                          fontWeight: FontWeight.bold,
+                        ),
+                      ),
+                    ],
+                  ),
+                if (stats['total_time_spent'] != null)
+                  Text(
+                    progressService.formatDuration(stats['total_time_spent'] as int),
+                    style: TextStyle(
+                      fontSize: 12,
+                      color: Colors.grey[600],
+                    ),
+                  ),
+              ],
+            ),
+          ],
         ],
       ),
     );

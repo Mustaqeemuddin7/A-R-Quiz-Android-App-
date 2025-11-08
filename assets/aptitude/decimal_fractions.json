@@ -1,0 +1,197 @@
+{
+  "topic": "Decimal Fractions",
+  "levels": {
+    "easy": {
+      "questions": [
+        {
+          "id": "DF_E_1",
+          "question": "Basic question 1 about Decimal Fractions?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample easy level question for Decimal Fractions. Replace with actual questions."
+        },
+        {
+          "id": "DF_E_2",
+          "question": "What is a fundamental concept in Decimal Fractions?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample easy level question for Decimal Fractions. Replace with actual questions."
+        },
+        {
+          "id": "DF_E_3",
+          "question": "Which option correctly describes Decimal Fractions?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample easy level question for Decimal Fractions. Replace with actual questions."
+        },
+        {
+          "id": "DF_E_4",
+          "question": "A simple problem related to Decimal Fractions?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample easy level question for Decimal Fractions. Replace with actual questions."
+        },
+        {
+          "id": "DF_E_5",
+          "question": "Basic application of Decimal Fractions?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample easy level question for Decimal Fractions. Replace with actual questions."
+        }
+      ]
+    },
+    "medium": {
+      "questions": [
+        {
+          "id": "DF_M_1",
+          "question": "An intermediate question about Decimal Fractions?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample medium level question for Decimal Fractions. Replace with actual questions."
+        },
+        {
+          "id": "DF_M_2",
+          "question": "Which statement is true regarding Decimal Fractions?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample medium level question for Decimal Fractions. Replace with actual questions."
+        },
+        {
+          "id": "DF_M_3",
+          "question": "A moderate difficulty problem in Decimal Fractions?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample medium level question for Decimal Fractions. Replace with actual questions."
+        },
+        {
+          "id": "DF_M_4",
+          "question": "Application of intermediate Decimal Fractions concepts?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample medium level question for Decimal Fractions. Replace with actual questions."
+        },
+        {
+          "id": "DF_M_5",
+          "question": "A more complex Decimal Fractions scenario?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample medium level question for Decimal Fractions. Replace with actual questions."
+        }
+      ]
+    },
+    "hard": {
+      "questions": [
+        {
+          "id": "DF_H_1",
+          "question": "An advanced question about Decimal Fractions?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample hard level question for Decimal Fractions. Replace with actual questions."
+        },
+        {
+          "id": "DF_H_2",
+          "question": "Which complex scenario applies to Decimal Fractions?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample hard level question for Decimal Fractions. Replace with actual questions."
+        },
+        {
+          "id": "DF_H_3",
+          "question": "A challenging problem in Decimal Fractions?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample hard level question for Decimal Fractions. Replace with actual questions."
+        },
+        {
+          "id": "DF_H_4",
+          "question": "Advanced application of Decimal Fractions principles?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample hard level question for Decimal Fractions. Replace with actual questions."
+        },
+        {
+          "id": "DF_H_5",
+          "question": "A complex Decimal Fractions calculation?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample hard level question for Decimal Fractions. Replace with actual questions."
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,197 @@
+{
+  "topic": "Bar Graphs",
+  "levels": {
+    "easy": {
+      "questions": [
+        {
+          "id": "BG_E_1",
+          "question": "Basic question 1 about Bar Graphs?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample easy level question for Bar Graphs. Replace with actual questions."
+        },
+        {
+          "id": "BG_E_2",
+          "question": "What is a fundamental concept in Bar Graphs?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample easy level question for Bar Graphs. Replace with actual questions."
+        },
+        {
+          "id": "BG_E_3",
+          "question": "Which option correctly describes Bar Graphs?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample easy level question for Bar Graphs. Replace with actual questions."
+        },
+        {
+          "id": "BG_E_4",
+          "question": "A simple problem related to Bar Graphs?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample easy level question for Bar Graphs. Replace with actual questions."
+        },
+        {
+          "id": "BG_E_5",
+          "question": "Basic application of Bar Graphs?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample easy level question for Bar Graphs. Replace with actual questions."
+        }
+      ]
+    },
+    "medium": {
+      "questions": [
+        {
+          "id": "BG_M_1",
+          "question": "An intermediate question about Bar Graphs?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample medium level question for Bar Graphs. Replace with actual questions."
+        },
+        {
+          "id": "BG_M_2",
+          "question": "Which statement is true regarding Bar Graphs?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample medium level question for Bar Graphs. Replace with actual questions."
+        },
+        {
+          "id": "BG_M_3",
+          "question": "A moderate difficulty problem in Bar Graphs?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample medium level question for Bar Graphs. Replace with actual questions."
+        },
+        {
+          "id": "BG_M_4",
+          "question": "Application of intermediate Bar Graphs concepts?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample medium level question for Bar Graphs. Replace with actual questions."
+        },
+        {
+          "id": "BG_M_5",
+          "question": "A more complex Bar Graphs scenario?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample medium level question for Bar Graphs. Replace with actual questions."
+        }
+      ]
+    },
+    "hard": {
+      "questions": [
+        {
+          "id": "BG_H_1",
+          "question": "An advanced question about Bar Graphs?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample hard level question for Bar Graphs. Replace with actual questions."
+        },
+        {
+          "id": "BG_H_2",
+          "question": "Which complex scenario applies to Bar Graphs?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample hard level question for Bar Graphs. Replace with actual questions."
+        },
+        {
+          "id": "BG_H_3",
+          "question": "A challenging problem in Bar Graphs?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample hard level question for Bar Graphs. Replace with actual questions."
+        },
+        {
+          "id": "BG_H_4",
+          "question": "Advanced application of Bar Graphs principles?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample hard level question for Bar Graphs. Replace with actual questions."
+        },
+        {
+          "id": "BG_H_5",
+          "question": "A complex Bar Graphs calculation?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample hard level question for Bar Graphs. Replace with actual questions."
+        }
+      ]
+    }
+  }
+}

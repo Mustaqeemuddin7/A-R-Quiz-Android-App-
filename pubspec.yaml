@@ -1,7 +1,7 @@
 name: anr_fixed
 description: A new Flutter project
 
-publish_to: "none" # Remove this if publishing to pub.dev
+publish_to: "none"
 
 version: 1.0.0+1
 
@@ -9,7 +9,6 @@ environment:
   sdk: ">=3.0.0 <4.0.0"
 
 dependencies:
-
   flutter:
     sdk: flutter
 
@@ -25,7 +24,6 @@ dependencies:
 
   # UI & Icons
   cupertino_icons: ^1.0.2
-  
   google_fonts: ^6.1.0
   flutter_svg: ^2.0.9
 
@@ -41,6 +39,49 @@ dev_dependencies:
 flutter:
   uses-material-design: true
 
+  # Assets
   assets:
-    - lib/assets/aptitude/
-    - lib/assets/reasoning/
+    # Register the directories and their contents
+    - assets/aptitude/
+    - assets/reasoning/
+    # Explicitly register all JSON files to ensure they're included
+    - assets/aptitude/area.json
+    - assets/aptitude/average.json
+    - assets/aptitude/bar_graphs.json
+    - assets/aptitude/calendar_clocks.json
+    - assets/aptitude/decimal_fractions.json
+    - assets/aptitude/hcf_lcm.json
+    - assets/aptitude/line_graphs.json
+    - assets/aptitude/number_system.json
+    - assets/aptitude/percentage.json
+    - assets/aptitude/pie_chart.json
+    - assets/aptitude/probability.json
+    - assets/aptitude/problems_on_ages.json
+    - assets/aptitude/profit_loss.json
+    - assets/aptitude/ratio_proportion.json
+    - assets/aptitude/simple_interest_compound_interest.json
+    - assets/aptitude/simplification.json
+    - assets/aptitude/square_cube_roots.json
+    - assets/aptitude/surds_indices.json
+    - assets/aptitude/time_distance.json
+    - assets/aptitude/time_work.json
+    - assets/aptitude/volume_surface_area.json
+    - assets/reasoning/alphabet_test.json
+    - assets/reasoning/analogy.json
+    - assets/reasoning/blood_relations.json
+    - assets/reasoning/classification.json
+    - assets/reasoning/coding_decoding.json
+    - assets/reasoning/cubes_dice.json
+    - assets/reasoning/data_sufficiency.json
+    - assets/reasoning/direction_sense.json
+    - assets/reasoning/embedded_figures.json
+    - assets/reasoning/figure_matrix.json
+    - assets/reasoning/logical_deductions.json
+    - assets/reasoning/mirror_images.json
+    - assets/reasoning/number_ranking_test.json
+    - assets/reasoning/paper_folding_completion.json
+    - assets/reasoning/puzzle_test.json
+    - assets/reasoning/series_completion.json
+    - assets/reasoning/statement_arguments.json
+    - assets/reasoning/statement_conclusions.json
+    - assets/reasoning/venn_diagrams.json

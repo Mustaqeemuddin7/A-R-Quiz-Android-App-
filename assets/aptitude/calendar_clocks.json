@@ -1,0 +1,197 @@
+{
+  "topic": "Calendar Clocks",
+  "levels": {
+    "easy": {
+      "questions": [
+        {
+          "id": "CC_E_1",
+          "question": "Basic question 1 about Calendar & Clocks?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample easy level question for Calendar & Clocks. Replace with actual questions."
+        },
+        {
+          "id": "CC_E_2",
+          "question": "What is a fundamental concept in Calendar & Clocks?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample easy level question for Calendar & Clocks. Replace with actual questions."
+        },
+        {
+          "id": "CC_E_3",
+          "question": "Which option correctly describes Calendar & Clocks?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample easy level question for Calendar & Clocks. Replace with actual questions."
+        },
+        {
+          "id": "CC_E_4",
+          "question": "A simple problem related to Calendar & Clocks?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample easy level question for Calendar & Clocks. Replace with actual questions."
+        },
+        {
+          "id": "CC_E_5",
+          "question": "Basic application of Calendar & Clocks?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample easy level question for Calendar & Clocks. Replace with actual questions."
+        }
+      ]
+    },
+    "medium": {
+      "questions": [
+        {
+          "id": "CC_M_1",
+          "question": "An intermediate question about Calendar & Clocks?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample medium level question for Calendar & Clocks. Replace with actual questions."
+        },
+        {
+          "id": "CC_M_2",
+          "question": "Which statement is true regarding Calendar & Clocks?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample medium level question for Calendar & Clocks. Replace with actual questions."
+        },
+        {
+          "id": "CC_M_3",
+          "question": "A moderate difficulty problem in Calendar & Clocks?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample medium level question for Calendar & Clocks. Replace with actual questions."
+        },
+        {
+          "id": "CC_M_4",
+          "question": "Application of intermediate Calendar & Clocks concepts?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample medium level question for Calendar & Clocks. Replace with actual questions."
+        },
+        {
+          "id": "CC_M_5",
+          "question": "A more complex Calendar & Clocks scenario?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample medium level question for Calendar & Clocks. Replace with actual questions."
+        }
+      ]
+    },
+    "hard": {
+      "questions": [
+        {
+          "id": "CC_H_1",
+          "question": "An advanced question about Calendar & Clocks?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample hard level question for Calendar & Clocks. Replace with actual questions."
+        },
+        {
+          "id": "CC_H_2",
+          "question": "Which complex scenario applies to Calendar & Clocks?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample hard level question for Calendar & Clocks. Replace with actual questions."
+        },
+        {
+          "id": "CC_H_3",
+          "question": "A challenging problem in Calendar & Clocks?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample hard level question for Calendar & Clocks. Replace with actual questions."
+        },
+        {
+          "id": "CC_H_4",
+          "question": "Advanced application of Calendar & Clocks principles?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample hard level question for Calendar & Clocks. Replace with actual questions."
+        },
+        {
+          "id": "CC_H_5",
+          "question": "A complex Calendar & Clocks calculation?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample hard level question for Calendar & Clocks. Replace with actual questions."
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,197 @@
+{
+  "topic": "Mirror Images",
+  "levels": {
+    "easy": {
+      "questions": [
+        {
+          "id": "MI_E_1",
+          "question": "Basic question 1 about Mirror Images?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample easy level question for Mirror Images. Replace with actual questions."
+        },
+        {
+          "id": "MI_E_2",
+          "question": "What is a fundamental concept in Mirror Images?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample easy level question for Mirror Images. Replace with actual questions."
+        },
+        {
+          "id": "MI_E_3",
+          "question": "Which option correctly describes Mirror Images?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample easy level question for Mirror Images. Replace with actual questions."
+        },
+        {
+          "id": "MI_E_4",
+          "question": "A simple problem related to Mirror Images?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample easy level question for Mirror Images. Replace with actual questions."
+        },
+        {
+          "id": "MI_E_5",
+          "question": "Basic application of Mirror Images?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample easy level question for Mirror Images. Replace with actual questions."
+        }
+      ]
+    },
+    "medium": {
+      "questions": [
+        {
+          "id": "MI_M_1",
+          "question": "An intermediate question about Mirror Images?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample medium level question for Mirror Images. Replace with actual questions."
+        },
+        {
+          "id": "MI_M_2",
+          "question": "Which statement is true regarding Mirror Images?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample medium level question for Mirror Images. Replace with actual questions."
+        },
+        {
+          "id": "MI_M_3",
+          "question": "A moderate difficulty problem in Mirror Images?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample medium level question for Mirror Images. Replace with actual questions."
+        },
+        {
+          "id": "MI_M_4",
+          "question": "Application of intermediate Mirror Images concepts?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample medium level question for Mirror Images. Replace with actual questions."
+        },
+        {
+          "id": "MI_M_5",
+          "question": "A more complex Mirror Images scenario?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample medium level question for Mirror Images. Replace with actual questions."
+        }
+      ]
+    },
+    "hard": {
+      "questions": [
+        {
+          "id": "MI_H_1",
+          "question": "An advanced question about Mirror Images?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample hard level question for Mirror Images. Replace with actual questions."
+        },
+        {
+          "id": "MI_H_2",
+          "question": "Which complex scenario applies to Mirror Images?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample hard level question for Mirror Images. Replace with actual questions."
+        },
+        {
+          "id": "MI_H_3",
+          "question": "A challenging problem in Mirror Images?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample hard level question for Mirror Images. Replace with actual questions."
+        },
+        {
+          "id": "MI_H_4",
+          "question": "Advanced application of Mirror Images principles?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample hard level question for Mirror Images. Replace with actual questions."
+        },
+        {
+          "id": "MI_H_5",
+          "question": "A complex Mirror Images calculation?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample hard level question for Mirror Images. Replace with actual questions."
+        }
+      ]
+    }
+  }
+}

@@ -108,4 +108,56 @@ class ProgressService extends ChangeNotifier {
     if (badges.contains('Beginner')) return 'Beginner';
     return null;
   }
+
+  // Format duration for display
+  String formatDuration(int seconds) {
+    if (seconds < 60) return '$seconds sec';
+    if (seconds < 3600) {
+      final minutes = (seconds / 60).floor();
+      return '$minutes min';
+    }
+    final hours = (seconds / 3600).floor();
+    return '$hours hr';
+  }
+
+  // Get category icon
+  String getCategoryIcon(String category) {
+    switch (category.toLowerCase()) {
+      case 'aptitude':
+        return '🧮';
+      case 'reasoning':
+        return '🧩';
+      default:
+        return '📚';
+    }
+  }
+
+  // Get level icon
+  String getLevelIcon(String level) {
+    switch (level.toLowerCase()) {
+      case 'easy':
+        return '🟢';
+      case 'medium':
+        return '🟡';
+      case 'hard':
+        return '🔴';
+      default:
+        return '⚪';
+    }
+  }
+
+  // Format percentage
+  String formatPercentage(double percentage) {
+    return '${percentage.toStringAsFixed(1)}%';
+  }
+
+  // Get streak message
+  String getStreakMessage(int streak) {
+    if (streak == 0) return 'Start your streak today!';
+    if (streak == 1) return 'First day of your streak!';
+    if (streak < 3) return 'Keep going!';
+    if (streak < 7) return 'You\'re on fire! 🔥';
+    if (streak < 14) return 'Unstoppable! 🚀';
+    return 'Legendary! 👑';
+  }
 }

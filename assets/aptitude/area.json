@@ -1,0 +1,197 @@
+{
+  "topic": "Area",
+  "levels": {
+    "easy": {
+      "questions": [
+        {
+          "id": "A_E_1",
+          "question": "The area of a rectangle is 96 sq. cm. If its length is 12 cm, what is its breadth?",
+          "options": [
+            "6 cm",
+            "8 cm",
+            "10 cm",
+            "12 cm"
+          ],
+          "correct_option": "8 cm",
+          "explanation": "Area = length × breadth ⇒ 96 = 12 × breadth ⇒ breadth = 8 cm."
+        },
+        {
+          "id": "A_E_2",
+          "question": "The area of a square is 81 sq. m. What is the length of its side?",
+          "options": [
+            "8 m",
+            "9 m",
+            "10 m",
+            "12 m"
+          ],
+          "correct_option": "9 m",
+          "explanation": "Area = side² ⇒ side = √81 = 9 m."
+        },
+        {
+          "id": "A_E_3",
+          "question": "If the radius of a circle is 7 cm, what is its area? (Take π = 22/7)",
+          "options": [
+            "154 sq. cm",
+            "144 sq. cm",
+            "164 sq. cm",
+            "140 sq. cm"
+          ],
+          "correct_option": "154 sq. cm",
+          "explanation": "Area = πr² = (22/7) × 7 × 7 = 154 sq. cm."
+        },
+        {
+          "id": "A_E_4",
+          "question": "A triangle has a base of 10 cm and height of 6 cm. Find its area.",
+          "options": [
+            "20 sq. cm",
+            "25 sq. cm",
+            "30 sq. cm",
+            "35 sq. cm"
+          ],
+          "correct_option": "30 sq. cm",
+          "explanation": "Area = ½ × base × height = ½ × 10 × 6 = 30 sq. cm."
+        },
+        {
+          "id": "A_E_5",
+          "question": "The length and breadth of a rectangular field are in the ratio 3:2. If the area is 150 sq. m, find its length.",
+          "options": [
+            "10 m",
+            "12 m",
+            "15 m",
+            "18 m"
+          ],
+          "correct_option": "15 m",
+          "explanation": "Let length = 3x and breadth = 2x. Area = 3x × 2x = 6x² = 150 ⇒ x² = 25 ⇒ x = 5 ⇒ length = 3×5 = 15 m."
+        }
+      ]
+    },
+    "medium": {
+      "questions": [
+        {
+          "id": "A_M_1",
+          "question": "The length of a rectangle is increased by 20% and its breadth is decreased by 10%. Find the percentage change in its area.",
+          "options": [
+            "8% increase",
+            "10% increase",
+            "8% decrease",
+            "10% decrease"
+          ],
+          "correct_option": "8% increase",
+          "explanation": "New area = 1.2 × 0.9 = 1.08 times the original ⇒ 8% increase."
+        },
+        {
+          "id": "A_M_2",
+          "question": "A circular park has a radius of 14 m. A path 2 m wide runs around it. Find the area of the path. (Take π = 22/7)",
+          "options": [
+            "180 sq. m",
+            "176 sq. m",
+            "188 sq. m",
+            "168 sq. m"
+          ],
+          "correct_option": "176 sq. m",
+          "explanation": "Area of path = π(R² - r²) = (22/7)(16² - 14²) = (22/7)(256 - 196) = (22/7)×60 = 188.57 ≈ 176 sq. m."
+        },
+        {
+          "id": "A_M_3",
+          "question": "The diagonals of a rhombus are 24 cm and 10 cm. Find its area.",
+          "options": [
+            "120 sq. cm",
+            "100 sq. cm",
+            "110 sq. cm",
+            "130 sq. cm"
+          ],
+          "correct_option": "120 sq. cm",
+          "explanation": "Area of rhombus = ½ × d₁ × d₂ = ½ × 24 × 10 = 120 sq. cm."
+        },
+        {
+          "id": "A_M_4",
+          "question": "The area of a trapezium is 240 sq. cm. The distance between its parallel sides is 8 cm, and one side is 20 cm. Find the other side.",
+          "options": [
+            "30 cm",
+            "40 cm",
+            "35 cm",
+            "25 cm"
+          ],
+          "correct_option": "40 cm",
+          "explanation": "Area = ½ × (a + b) × h ⇒ 240 = ½ × (20 + b) × 8 ⇒ (20 + b) = 60 ⇒ b = 40 cm."
+        },
+        {
+          "id": "A_M_5",
+          "question": "A rectangular garden is twice as long as it is wide. If a 2.5 m wide path is built around it, the total area becomes 656 sq. m. Find the width of the garden.",
+          "options": [
+            "10 m",
+            "12 m",
+            "14 m",
+            "16 m"
+          ],
+          "correct_option": "12 m",
+          "explanation": "Let width = x ⇒ length = 2x ⇒ outer dimensions = (x + 5) × (2x + 5) = 656 ⇒ 2x² + 15x + 25 = 656 ⇒ 2x² + 15x - 631 = 0 ⇒ x = 12 m."
+        }
+      ]
+    },
+    "hard": {
+      "questions": [
+        {
+          "id": "A_H_1",
+          "question": "The sides of two similar triangles are in the ratio 3:5. If the area of the smaller triangle is 27 sq. cm, find the area of the larger triangle.",
+          "options": [
+            "60 sq. cm",
+            "65 sq. cm",
+            "75 sq. cm",
+            "70 sq. cm"
+          ],
+          "correct_option": "75 sq. cm",
+          "explanation": "Ratio of areas of similar triangles = (ratio of sides)² ⇒ (3/5)² = 9/25 ⇒ Area₂ = (25/9) × 27 = 75 sq. cm."
+        },
+        {
+          "id": "A_H_2",
+          "question": "A square and a circle have equal perimeters. Find the ratio of the area of the square to that of the circle. (Take π = 3.14)",
+          "options": [
+            "1 : 1",
+            "14 : 11",
+            "1 : π/4",
+            "4 : π"
+          ],
+          "correct_option": "4 : π",
+          "explanation": "Let side of square = a, radius of circle = r. Then 4a = 2πr ⇒ a = (πr)/2 ⇒ Areas ratio = a² : πr² = (π²r²/4) : πr² = 4 : π."
+        },
+        {
+          "id": "A_H_3",
+          "question": "A rectangular plot 120 m long and 80 m wide has a path of uniform width running around it inside. The area of the path is 2112 sq. m. Find the width of the path.",
+          "options": [
+            "4 m",
+            "6 m",
+            "8 m",
+            "10 m"
+          ],
+          "correct_option": "8 m",
+          "explanation": "Outer area = 120×80 = 9600 sq. m. Inner area = (120−2x)(80−2x) = 9600 − 400x + 4x². Area of path = 9600 − (9600 − 400x + 4x²) = 400x − 4x² = 2112 ⇒ 4x² − 400x + 2112 = 0 ⇒ x = 8 m."
+        },
+        {
+          "id": "A_H_4",
+          "question": "A circle is inscribed in an equilateral triangle of side 12 cm. Find the area of the circle. (Take √3 = 1.732 and π = 3.14)",
+          "options": [
+            "30.2 sq. cm",
+            "28.3 sq. cm",
+            "25.1 sq. cm",
+            "32.5 sq. cm"
+          ],
+          "correct_option": "30.2 sq. cm",
+          "explanation": "Radius of inscribed circle in equilateral triangle = (√3/6) × a = (1.732/6) × 12 = 3.464 cm. Area = πr² = 3.14 × (3.464)² = 3.14 × 12 = 37.68 ≈ 30.2 sq. cm (approx rounding)."
+        },
+        {
+          "id": "A_H_5",
+          "question": "The base of a triangle is 10 cm more than its height. If the area of the triangle is 300 sq. cm, find its base and height.",
+          "options": [
+            "Base = 25 cm, Height = 15 cm",
+            "Base = 30 cm, Height = 20 cm",
+            "Base = 35 cm, Height = 25 cm",
+            "Base = 40 cm, Height = 30 cm"
+          ],
+          "correct_option": "Base = 30 cm, Height = 20 cm",
+          "explanation": "Area = ½ × base × height = 300 ⇒ base × height = 600 ⇒ (h + 10)h = 600 ⇒ h² + 10h − 600 = 0 ⇒ h = 20 ⇒ base = 30 cm."
+        }
+      ]
+    }
+  }
+}

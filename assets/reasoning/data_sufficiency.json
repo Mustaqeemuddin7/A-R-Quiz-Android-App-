@@ -1,0 +1,197 @@
+{
+  "topic": "Data Sufficiency",
+  "levels": {
+    "easy": {
+      "questions": [
+        {
+          "id": "DS_E_1",
+          "question": "Basic question 1 about Data Sufficiency?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample easy level question for Data Sufficiency. Replace with actual questions."
+        },
+        {
+          "id": "DS_E_2",
+          "question": "What is a fundamental concept in Data Sufficiency?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample easy level question for Data Sufficiency. Replace with actual questions."
+        },
+        {
+          "id": "DS_E_3",
+          "question": "Which option correctly describes Data Sufficiency?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample easy level question for Data Sufficiency. Replace with actual questions."
+        },
+        {
+          "id": "DS_E_4",
+          "question": "A simple problem related to Data Sufficiency?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample easy level question for Data Sufficiency. Replace with actual questions."
+        },
+        {
+          "id": "DS_E_5",
+          "question": "Basic application of Data Sufficiency?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample easy level question for Data Sufficiency. Replace with actual questions."
+        }
+      ]
+    },
+    "medium": {
+      "questions": [
+        {
+          "id": "DS_M_1",
+          "question": "An intermediate question about Data Sufficiency?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample medium level question for Data Sufficiency. Replace with actual questions."
+        },
+        {
+          "id": "DS_M_2",
+          "question": "Which statement is true regarding Data Sufficiency?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample medium level question for Data Sufficiency. Replace with actual questions."
+        },
+        {
+          "id": "DS_M_3",
+          "question": "A moderate difficulty problem in Data Sufficiency?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample medium level question for Data Sufficiency. Replace with actual questions."
+        },
+        {
+          "id": "DS_M_4",
+          "question": "Application of intermediate Data Sufficiency concepts?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample medium level question for Data Sufficiency. Replace with actual questions."
+        },
+        {
+          "id": "DS_M_5",
+          "question": "A more complex Data Sufficiency scenario?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample medium level question for Data Sufficiency. Replace with actual questions."
+        }
+      ]
+    },
+    "hard": {
+      "questions": [
+        {
+          "id": "DS_H_1",
+          "question": "An advanced question about Data Sufficiency?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample hard level question for Data Sufficiency. Replace with actual questions."
+        },
+        {
+          "id": "DS_H_2",
+          "question": "Which complex scenario applies to Data Sufficiency?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample hard level question for Data Sufficiency. Replace with actual questions."
+        },
+        {
+          "id": "DS_H_3",
+          "question": "A challenging problem in Data Sufficiency?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample hard level question for Data Sufficiency. Replace with actual questions."
+        },
+        {
+          "id": "DS_H_4",
+          "question": "Advanced application of Data Sufficiency principles?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample hard level question for Data Sufficiency. Replace with actual questions."
+        },
+        {
+          "id": "DS_H_5",
+          "question": "A complex Data Sufficiency calculation?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample hard level question for Data Sufficiency. Replace with actual questions."
+        }
+      ]
+    }
+  }
+}

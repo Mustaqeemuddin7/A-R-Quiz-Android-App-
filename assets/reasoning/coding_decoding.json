@@ -1,0 +1,197 @@
+{
+  "topic": "Coding Decoding",
+  "levels": {
+    "easy": {
+      "questions": [
+        {
+          "id": "CD_E_1",
+          "question": "Basic question 1 about Coding-Decoding?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample easy level question for Coding-Decoding. Replace with actual questions."
+        },
+        {
+          "id": "CD_E_2",
+          "question": "What is a fundamental concept in Coding-Decoding?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample easy level question for Coding-Decoding. Replace with actual questions."
+        },
+        {
+          "id": "CD_E_3",
+          "question": "Which option correctly describes Coding-Decoding?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample easy level question for Coding-Decoding. Replace with actual questions."
+        },
+        {
+          "id": "CD_E_4",
+          "question": "A simple problem related to Coding-Decoding?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample easy level question for Coding-Decoding. Replace with actual questions."
+        },
+        {
+          "id": "CD_E_5",
+          "question": "Basic application of Coding-Decoding?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample easy level question for Coding-Decoding. Replace with actual questions."
+        }
+      ]
+    },
+    "medium": {
+      "questions": [
+        {
+          "id": "CD_M_1",
+          "question": "An intermediate question about Coding-Decoding?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample medium level question for Coding-Decoding. Replace with actual questions."
+        },
+        {
+          "id": "CD_M_2",
+          "question": "Which statement is true regarding Coding-Decoding?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample medium level question for Coding-Decoding. Replace with actual questions."
+        },
+        {
+          "id": "CD_M_3",
+          "question": "A moderate difficulty problem in Coding-Decoding?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample medium level question for Coding-Decoding. Replace with actual questions."
+        },
+        {
+          "id": "CD_M_4",
+          "question": "Application of intermediate Coding-Decoding concepts?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample medium level question for Coding-Decoding. Replace with actual questions."
+        },
+        {
+          "id": "CD_M_5",
+          "question": "A more complex Coding-Decoding scenario?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample medium level question for Coding-Decoding. Replace with actual questions."
+        }
+      ]
+    },
+    "hard": {
+      "questions": [
+        {
+          "id": "CD_H_1",
+          "question": "An advanced question about Coding-Decoding?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample hard level question for Coding-Decoding. Replace with actual questions."
+        },
+        {
+          "id": "CD_H_2",
+          "question": "Which complex scenario applies to Coding-Decoding?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample hard level question for Coding-Decoding. Replace with actual questions."
+        },
+        {
+          "id": "CD_H_3",
+          "question": "A challenging problem in Coding-Decoding?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample hard level question for Coding-Decoding. Replace with actual questions."
+        },
+        {
+          "id": "CD_H_4",
+          "question": "Advanced application of Coding-Decoding principles?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample hard level question for Coding-Decoding. Replace with actual questions."
+        },
+        {
+          "id": "CD_H_5",
+          "question": "A complex Coding-Decoding calculation?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample hard level question for Coding-Decoding. Replace with actual questions."
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,197 @@
+{
+  "topic": "Logical Deductions",
+  "levels": {
+    "easy": {
+      "questions": [
+        {
+          "id": "LD_E_1",
+          "question": "Basic question 1 about Logical Deductions?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample easy level question for Logical Deductions. Replace with actual questions."
+        },
+        {
+          "id": "LD_E_2",
+          "question": "What is a fundamental concept in Logical Deductions?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample easy level question for Logical Deductions. Replace with actual questions."
+        },
+        {
+          "id": "LD_E_3",
+          "question": "Which option correctly describes Logical Deductions?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample easy level question for Logical Deductions. Replace with actual questions."
+        },
+        {
+          "id": "LD_E_4",
+          "question": "A simple problem related to Logical Deductions?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample easy level question for Logical Deductions. Replace with actual questions."
+        },
+        {
+          "id": "LD_E_5",
+          "question": "Basic application of Logical Deductions?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample easy level question for Logical Deductions. Replace with actual questions."
+        }
+      ]
+    },
+    "medium": {
+      "questions": [
+        {
+          "id": "LD_M_1",
+          "question": "An intermediate question about Logical Deductions?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample medium level question for Logical Deductions. Replace with actual questions."
+        },
+        {
+          "id": "LD_M_2",
+          "question": "Which statement is true regarding Logical Deductions?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample medium level question for Logical Deductions. Replace with actual questions."
+        },
+        {
+          "id": "LD_M_3",
+          "question": "A moderate difficulty problem in Logical Deductions?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample medium level question for Logical Deductions. Replace with actual questions."
+        },
+        {
+          "id": "LD_M_4",
+          "question": "Application of intermediate Logical Deductions concepts?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample medium level question for Logical Deductions. Replace with actual questions."
+        },
+        {
+          "id": "LD_M_5",
+          "question": "A more complex Logical Deductions scenario?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample medium level question for Logical Deductions. Replace with actual questions."
+        }
+      ]
+    },
+    "hard": {
+      "questions": [
+        {
+          "id": "LD_H_1",
+          "question": "An advanced question about Logical Deductions?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample hard level question for Logical Deductions. Replace with actual questions."
+        },
+        {
+          "id": "LD_H_2",
+          "question": "Which complex scenario applies to Logical Deductions?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample hard level question for Logical Deductions. Replace with actual questions."
+        },
+        {
+          "id": "LD_H_3",
+          "question": "A challenging problem in Logical Deductions?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample hard level question for Logical Deductions. Replace with actual questions."
+        },
+        {
+          "id": "LD_H_4",
+          "question": "Advanced application of Logical Deductions principles?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample hard level question for Logical Deductions. Replace with actual questions."
+        },
+        {
+          "id": "LD_H_5",
+          "question": "A complex Logical Deductions calculation?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample hard level question for Logical Deductions. Replace with actual questions."
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,197 @@
+{
+  "topic": "Series Completion",
+  "levels": {
+    "easy": {
+      "questions": [
+        {
+          "id": "SC_E_1",
+          "question": "Basic question 1 about Series Completion?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample easy level question for Series Completion. Replace with actual questions."
+        },
+        {
+          "id": "SC_E_2",
+          "question": "What is a fundamental concept in Series Completion?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample easy level question for Series Completion. Replace with actual questions."
+        },
+        {
+          "id": "SC_E_3",
+          "question": "Which option correctly describes Series Completion?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample easy level question for Series Completion. Replace with actual questions."
+        },
+        {
+          "id": "SC_E_4",
+          "question": "A simple problem related to Series Completion?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample easy level question for Series Completion. Replace with actual questions."
+        },
+        {
+          "id": "SC_E_5",
+          "question": "Basic application of Series Completion?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample easy level question for Series Completion. Replace with actual questions."
+        }
+      ]
+    },
+    "medium": {
+      "questions": [
+        {
+          "id": "SC_M_1",
+          "question": "An intermediate question about Series Completion?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample medium level question for Series Completion. Replace with actual questions."
+        },
+        {
+          "id": "SC_M_2",
+          "question": "Which statement is true regarding Series Completion?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample medium level question for Series Completion. Replace with actual questions."
+        },
+        {
+          "id": "SC_M_3",
+          "question": "A moderate difficulty problem in Series Completion?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample medium level question for Series Completion. Replace with actual questions."
+        },
+        {
+          "id": "SC_M_4",
+          "question": "Application of intermediate Series Completion concepts?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample medium level question for Series Completion. Replace with actual questions."
+        },
+        {
+          "id": "SC_M_5",
+          "question": "A more complex Series Completion scenario?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample medium level question for Series Completion. Replace with actual questions."
+        }
+      ]
+    },
+    "hard": {
+      "questions": [
+        {
+          "id": "SC_H_1",
+          "question": "An advanced question about Series Completion?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample hard level question for Series Completion. Replace with actual questions."
+        },
+        {
+          "id": "SC_H_2",
+          "question": "Which complex scenario applies to Series Completion?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample hard level question for Series Completion. Replace with actual questions."
+        },
+        {
+          "id": "SC_H_3",
+          "question": "A challenging problem in Series Completion?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample hard level question for Series Completion. Replace with actual questions."
+        },
+        {
+          "id": "SC_H_4",
+          "question": "Advanced application of Series Completion principles?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample hard level question for Series Completion. Replace with actual questions."
+        },
+        {
+          "id": "SC_H_5",
+          "question": "A complex Series Completion calculation?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample hard level question for Series Completion. Replace with actual questions."
+        }
+      ]
+    }
+  }
+}

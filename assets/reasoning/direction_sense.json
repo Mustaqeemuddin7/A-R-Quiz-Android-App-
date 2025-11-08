@@ -1,0 +1,197 @@
+{
+  "topic": "Direction Sense",
+  "levels": {
+    "easy": {
+      "questions": [
+        {
+          "id": "DS_E_1",
+          "question": "Basic question 1 about Direction Sense?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample easy level question for Direction Sense. Replace with actual questions."
+        },
+        {
+          "id": "DS_E_2",
+          "question": "What is a fundamental concept in Direction Sense?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample easy level question for Direction Sense. Replace with actual questions."
+        },
+        {
+          "id": "DS_E_3",
+          "question": "Which option correctly describes Direction Sense?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample easy level question for Direction Sense. Replace with actual questions."
+        },
+        {
+          "id": "DS_E_4",
+          "question": "A simple problem related to Direction Sense?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample easy level question for Direction Sense. Replace with actual questions."
+        },
+        {
+          "id": "DS_E_5",
+          "question": "Basic application of Direction Sense?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample easy level question for Direction Sense. Replace with actual questions."
+        }
+      ]
+    },
+    "medium": {
+      "questions": [
+        {
+          "id": "DS_M_1",
+          "question": "An intermediate question about Direction Sense?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample medium level question for Direction Sense. Replace with actual questions."
+        },
+        {
+          "id": "DS_M_2",
+          "question": "Which statement is true regarding Direction Sense?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample medium level question for Direction Sense. Replace with actual questions."
+        },
+        {
+          "id": "DS_M_3",
+          "question": "A moderate difficulty problem in Direction Sense?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample medium level question for Direction Sense. Replace with actual questions."
+        },
+        {
+          "id": "DS_M_4",
+          "question": "Application of intermediate Direction Sense concepts?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample medium level question for Direction Sense. Replace with actual questions."
+        },
+        {
+          "id": "DS_M_5",
+          "question": "A more complex Direction Sense scenario?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample medium level question for Direction Sense. Replace with actual questions."
+        }
+      ]
+    },
+    "hard": {
+      "questions": [
+        {
+          "id": "DS_H_1",
+          "question": "An advanced question about Direction Sense?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample hard level question for Direction Sense. Replace with actual questions."
+        },
+        {
+          "id": "DS_H_2",
+          "question": "Which complex scenario applies to Direction Sense?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample hard level question for Direction Sense. Replace with actual questions."
+        },
+        {
+          "id": "DS_H_3",
+          "question": "A challenging problem in Direction Sense?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample hard level question for Direction Sense. Replace with actual questions."
+        },
+        {
+          "id": "DS_H_4",
+          "question": "Advanced application of Direction Sense principles?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample hard level question for Direction Sense. Replace with actual questions."
+        },
+        {
+          "id": "DS_H_5",
+          "question": "A complex Direction Sense calculation?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample hard level question for Direction Sense. Replace with actual questions."
+        }
+      ]
+    }
+  }
+}

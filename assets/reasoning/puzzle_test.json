@@ -1,0 +1,197 @@
+{
+  "topic": "Puzzle Test",
+  "levels": {
+    "easy": {
+      "questions": [
+        {
+          "id": "PT_E_1",
+          "question": "Basic question 1 about Puzzle Test?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample easy level question for Puzzle Test. Replace with actual questions."
+        },
+        {
+          "id": "PT_E_2",
+          "question": "What is a fundamental concept in Puzzle Test?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample easy level question for Puzzle Test. Replace with actual questions."
+        },
+        {
+          "id": "PT_E_3",
+          "question": "Which option correctly describes Puzzle Test?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample easy level question for Puzzle Test. Replace with actual questions."
+        },
+        {
+          "id": "PT_E_4",
+          "question": "A simple problem related to Puzzle Test?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample easy level question for Puzzle Test. Replace with actual questions."
+        },
+        {
+          "id": "PT_E_5",
+          "question": "Basic application of Puzzle Test?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample easy level question for Puzzle Test. Replace with actual questions."
+        }
+      ]
+    },
+    "medium": {
+      "questions": [
+        {
+          "id": "PT_M_1",
+          "question": "An intermediate question about Puzzle Test?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample medium level question for Puzzle Test. Replace with actual questions."
+        },
+        {
+          "id": "PT_M_2",
+          "question": "Which statement is true regarding Puzzle Test?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample medium level question for Puzzle Test. Replace with actual questions."
+        },
+        {
+          "id": "PT_M_3",
+          "question": "A moderate difficulty problem in Puzzle Test?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample medium level question for Puzzle Test. Replace with actual questions."
+        },
+        {
+          "id": "PT_M_4",
+          "question": "Application of intermediate Puzzle Test concepts?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample medium level question for Puzzle Test. Replace with actual questions."
+        },
+        {
+          "id": "PT_M_5",
+          "question": "A more complex Puzzle Test scenario?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample medium level question for Puzzle Test. Replace with actual questions."
+        }
+      ]
+    },
+    "hard": {
+      "questions": [
+        {
+          "id": "PT_H_1",
+          "question": "An advanced question about Puzzle Test?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample hard level question for Puzzle Test. Replace with actual questions."
+        },
+        {
+          "id": "PT_H_2",
+          "question": "Which complex scenario applies to Puzzle Test?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample hard level question for Puzzle Test. Replace with actual questions."
+        },
+        {
+          "id": "PT_H_3",
+          "question": "A challenging problem in Puzzle Test?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample hard level question for Puzzle Test. Replace with actual questions."
+        },
+        {
+          "id": "PT_H_4",
+          "question": "Advanced application of Puzzle Test principles?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample hard level question for Puzzle Test. Replace with actual questions."
+        },
+        {
+          "id": "PT_H_5",
+          "question": "A complex Puzzle Test calculation?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample hard level question for Puzzle Test. Replace with actual questions."
+        }
+      ]
+    }
+  }
+}

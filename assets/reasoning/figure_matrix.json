@@ -1,0 +1,197 @@
+{
+  "topic": "Figure Matrix",
+  "levels": {
+    "easy": {
+      "questions": [
+        {
+          "id": "FM_E_1",
+          "question": "Basic question 1 about Figure Matrix?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample easy level question for Figure Matrix. Replace with actual questions."
+        },
+        {
+          "id": "FM_E_2",
+          "question": "What is a fundamental concept in Figure Matrix?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample easy level question for Figure Matrix. Replace with actual questions."
+        },
+        {
+          "id": "FM_E_3",
+          "question": "Which option correctly describes Figure Matrix?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample easy level question for Figure Matrix. Replace with actual questions."
+        },
+        {
+          "id": "FM_E_4",
+          "question": "A simple problem related to Figure Matrix?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample easy level question for Figure Matrix. Replace with actual questions."
+        },
+        {
+          "id": "FM_E_5",
+          "question": "Basic application of Figure Matrix?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample easy level question for Figure Matrix. Replace with actual questions."
+        }
+      ]
+    },
+    "medium": {
+      "questions": [
+        {
+          "id": "FM_M_1",
+          "question": "An intermediate question about Figure Matrix?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample medium level question for Figure Matrix. Replace with actual questions."
+        },
+        {
+          "id": "FM_M_2",
+          "question": "Which statement is true regarding Figure Matrix?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample medium level question for Figure Matrix. Replace with actual questions."
+        },
+        {
+          "id": "FM_M_3",
+          "question": "A moderate difficulty problem in Figure Matrix?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample medium level question for Figure Matrix. Replace with actual questions."
+        },
+        {
+          "id": "FM_M_4",
+          "question": "Application of intermediate Figure Matrix concepts?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample medium level question for Figure Matrix. Replace with actual questions."
+        },
+        {
+          "id": "FM_M_5",
+          "question": "A more complex Figure Matrix scenario?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample medium level question for Figure Matrix. Replace with actual questions."
+        }
+      ]
+    },
+    "hard": {
+      "questions": [
+        {
+          "id": "FM_H_1",
+          "question": "An advanced question about Figure Matrix?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample hard level question for Figure Matrix. Replace with actual questions."
+        },
+        {
+          "id": "FM_H_2",
+          "question": "Which complex scenario applies to Figure Matrix?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample hard level question for Figure Matrix. Replace with actual questions."
+        },
+        {
+          "id": "FM_H_3",
+          "question": "A challenging problem in Figure Matrix?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample hard level question for Figure Matrix. Replace with actual questions."
+        },
+        {
+          "id": "FM_H_4",
+          "question": "Advanced application of Figure Matrix principles?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample hard level question for Figure Matrix. Replace with actual questions."
+        },
+        {
+          "id": "FM_H_5",
+          "question": "A complex Figure Matrix calculation?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correct_option": "Option A",
+          "explanation": "This is a sample hard level question for Figure Matrix. Replace with actual questions."
+        }
+      ]
+    }
+  }
+}
